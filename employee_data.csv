@@ -1,0 +1,1001 @@
+EMPLOYEE ID,NAME,GENDER,AGE,DEPARTMENT,JOB ROLE,WORK MODE,JOIN DATE,EXPERIENCE(YEARS),PERFORMANCE,ATTENDANCE(%),LEAVES TAKEN,PROJECTS COMPLETED,SALARY
+EMP0001,Allison Hill,Male,39,IT Support,Support Specialist,Onsite,2019-04-28,6.2,Good,89.46,21,17,41395
+EMP0002,Brian Yang,Male,23,Marketing,SEO Specialist,Onsite,2024-10-20,0.7,Good,80.21,0,17,56062
+EMP0003,Javier Johnson,Male,50,IT Support,Network Admin,Hybrid,2019-03-31,6.3,Good,94.77,24,5,121506
+EMP0004,Lance Hoffman,Female,31,Sales,Sales Manager,Onsite,2024-10-18,0.7,Poor,73.46,2,12,42676
+EMP0005,Jerry Ramirez,Female,24,Engineering,DevOps Engineer,Hybrid,2015-08-21,9.9,Good,64.99,29,12,40328
+EMP0006,Caitlin Henderson,Female,58,Marketing,SEO Specialist,Onsite,2020-04-02,5.3,Average,61.83,7,9,40458
+EMP0007,Tyler Rogers,Male,46,Operations,Operations Manager,Remote,2017-02-07,8.4,Good,93.36,5,11,76566
+EMP0008,Ian Cooper,Male,60,Finance,Financial Analyst,Hybrid,2020-01-10,5.5,Excellent,89.17,5,14,79735
+EMP0009,Monica Herrera,Male,42,Engineering,QA Engineer,Onsite,2021-12-19,3.6,Good,61.28,10,12,65093
+EMP0010,Edward Fuller,Female,35,HR,HR Manager,Hybrid,2021-09-05,3.9,Good,95.39,20,14,48726
+EMP0011,Michele Williams,Male,57,Engineering,Software Engineer,Hybrid,2019-05-28,6.1,Good,83.38,28,18,82350
+EMP0012,Victoria Wyatt,Male,54,Engineering,Software Engineer,Remote,2017-03-30,8.3,Excellent,61.88,3,4,112240
+EMP0013,Jesse Flowers,Male,46,Finance,Financial Analyst,Remote,2018-04-17,7.2,Average,78.72,8,17,142824
+EMP0014,Daniel Adams,Female,43,HR,HR Manager,Onsite,2016-09-27,8.8,Good,66.33,0,8,95612
+EMP0015,Carolyn Daniel,Male,41,Operations,Operations Manager,Hybrid,2018-04-22,7.2,Average,67.96,11,5,100697
+EMP0016,Devin Schaefer,Female,53,Operations,Operations Manager,Onsite,2024-12-31,0.5,Excellent,74.52,26,9,61385
+EMP0017,Frederick Tate,Male,27,HR,HR Manager,Hybrid,2016-06-23,9.1,Good,62.77,24,17,130379
+EMP0018,Andrew Stewart,Female,57,Finance,Accountant,Onsite,2020-01-30,5.5,Good,94.9,13,6,100686
+EMP0019,Thomas Bradley,Female,47,Operations,Operations Manager,Hybrid,2020-11-17,4.7,Average,77.52,16,14,45860
+EMP0020,Jonathan Wilkerson,Male,43,Finance,Accountant,Onsite,2023-05-02,2.2,Average,69.2,7,0,39305
+EMP0021,Charles Mcgee,Male,26,IT Support,Support Specialist,Onsite,2024-09-11,0.8,Below Average,62.83,7,8,117684
+EMP0022,Kevin Hurst,Male,58,Sales,Sales Executive,Hybrid,2022-04-27,3.2,Good,91.38,25,13,54957
+EMP0023,Zachary Taylor,Female,44,HR,HR Manager,Remote,2023-12-03,1.6,Good,94.55,1,20,114696
+EMP0024,Anthony Rodriguez,Female,43,HR,HR Manager,Onsite,2018-04-01,7.3,Good,67.61,14,4,85296
+EMP0025,Jennifer Brown,Female,37,Finance,Financial Analyst,Onsite,2022-01-07,3.5,Good,94.45,17,3,36630
+EMP0026,Julie King,Male,37,IT Support,Support Specialist,Onsite,2024-12-08,0.6,Good,79.25,27,12,148284
+EMP0027,Alexandra Le,Female,22,HR,HR Manager,Remote,2024-08-29,0.9,Good,91.36,14,9,85444
+EMP0028,Patricia Peterson,Male,34,IT Support,Network Admin,Remote,2020-07-08,5.0,Good,62.34,23,17,37989
+EMP0029,Jesse Mckay,Male,25,IT Support,Network Admin,Hybrid,2020-01-03,5.5,Good,96.78,16,5,37455
+EMP0030,Pamela Romero,Male,26,Marketing,Marketing Executive,Hybrid,2017-05-03,8.2,Excellent,94.47,12,3,146691
+EMP0031,Elizabeth Fowler,Male,27,Marketing,Marketing Executive,Remote,2018-11-28,6.6,Average,82.61,10,8,56772
+EMP0032,Phillip Ryan,Male,38,IT Support,Network Admin,Remote,2024-07-19,1.0,Excellent,85.82,14,10,128548
+EMP0033,Linda Burns,Female,58,HR,HR Manager,Onsite,2017-06-06,8.1,Excellent,68.53,8,4,75745
+EMP0034,Sherry Decker,Female,40,HR,HR Manager,Onsite,2020-10-03,4.8,Good,81.73,9,19,135788
+EMP0035,David Bradley,Female,28,IT Support,Support Specialist,Onsite,2016-11-12,8.7,Good,95.59,23,17,50374
+EMP0036,John Jones,Male,43,Engineering,DevOps Engineer,Onsite,2024-08-03,0.9,Average,94.12,16,15,62914
+EMP0037,Betty Alvarez,Male,49,Operations,Operations Manager,Remote,2024-11-17,0.6,Excellent,73.34,4,20,64335
+EMP0038,Joseph Obrien,Female,57,Finance,Financial Analyst,Onsite,2019-02-17,6.4,Excellent,97.8,22,4,101511
+EMP0039,Nicole Vaughn,Male,49,HR,Recruiter,Onsite,2020-10-29,4.7,Excellent,74.59,29,1,147823
+EMP0040,Michael Brooks,Male,28,Engineering,Software Engineer,Remote,2024-05-01,1.2,Average,95.37,13,19,128235
+EMP0041,David Brown,Male,33,Finance,Accountant,Remote,2015-11-19,9.7,Excellent,89.46,10,13,135150
+EMP0042,Crystal Robinson,Female,32,IT Support,Support Specialist,Hybrid,2016-09-25,8.8,Excellent,94.89,27,15,59154
+EMP0043,Amy Jones,Female,41,Finance,Financial Analyst,Onsite,2016-01-23,9.5,Good,86.4,12,10,66517
+EMP0044,Andrea Young,Female,44,Operations,Operations Manager,Hybrid,2023-10-14,1.7,Average,87.18,26,17,73404
+EMP0045,Carlos Walls,Female,33,HR,HR Manager,Hybrid,2025-03-29,0.3,Poor,70.62,3,19,86959
+EMP0046,Dana Kennedy,Female,49,Engineering,QA Engineer,Hybrid,2022-06-14,3.1,Poor,64.63,28,18,54914
+EMP0047,Brent Jordan,Female,22,Engineering,Software Engineer,Hybrid,2022-09-25,2.8,Below Average,81.54,23,6,77739
+EMP0048,Scott Brown,Female,42,Sales,Sales Executive,Hybrid,2017-03-14,8.3,Below Average,88.79,9,16,70538
+EMP0049,Nicholas Mcbride,Female,47,IT Support,Network Admin,Hybrid,2017-05-20,8.2,Good,65.09,13,12,118777
+EMP0050,Connor West,Female,47,IT Support,Support Specialist,Hybrid,2022-09-14,2.8,Below Average,72.15,6,13,132990
+EMP0051,Joel Baxter,Female,50,Marketing,SEO Specialist,Remote,2016-10-22,8.7,Average,80.45,25,5,116356
+EMP0052,Scott Pierce,Female,27,HR,Recruiter,Onsite,2016-05-21,9.1,Average,68.99,6,4,33201
+EMP0053,Kimberly Smith,Female,26,HR,HR Manager,Remote,2017-02-10,8.4,Good,85.19,6,12,94799
+EMP0054,Sarah Martin,Male,22,Sales,Sales Executive,Onsite,2023-10-15,1.7,Average,68.75,25,16,90889
+EMP0055,Dr. Steven Martin,Male,51,HR,HR Manager,Onsite,2015-07-25,10.0,Below Average,86.7,17,19,71588
+EMP0056,Mrs. Rachel Gibson,Female,57,Operations,Logistics Coordinator,Remote,2022-09-21,2.8,Below Average,89.75,15,14,63972
+EMP0057,Monica Logan,Female,55,Operations,Operations Manager,Remote,2023-10-22,1.7,Average,70.98,2,9,60735
+EMP0058,Edward Novak,Female,56,Engineering,DevOps Engineer,Onsite,2025-05-18,0.2,Excellent,69.25,22,4,122591
+EMP0059,Amy Edwards,Female,48,Finance,Accountant,Remote,2016-05-18,9.2,Average,76.63,6,13,81049
+EMP0060,Kathryn Farrell,Female,52,Operations,Operations Manager,Onsite,2018-03-16,7.3,Below Average,71.94,12,13,100545
+EMP0061,Jordan York,Female,36,IT Support,Support Specialist,Remote,2016-09-09,8.8,Good,61.16,10,12,124919
+EMP0062,Megan Young,Male,56,Finance,Financial Analyst,Onsite,2017-07-25,8.0,Below Average,83.68,21,0,41003
+EMP0063,Laura Riley,Male,51,IT Support,Network Admin,Onsite,2016-03-14,9.3,Excellent,75.16,6,14,72840
+EMP0064,Jennifer Silva,Female,48,Engineering,DevOps Engineer,Remote,2024-06-02,1.1,Below Average,78.81,23,17,36826
+EMP0065,Dean Santiago,Male,24,Engineering,Software Engineer,Onsite,2020-11-14,4.7,Below Average,67.97,0,19,49973
+EMP0066,James Powers,Female,29,Finance,Accountant,Hybrid,2020-08-18,4.9,Below Average,78.6,8,11,51992
+EMP0067,Timothy Walls,Male,41,Marketing,Marketing Executive,Onsite,2015-09-07,9.9,Average,97.16,18,12,81990
+EMP0068,Zachary Ferrell,Male,59,IT Support,Support Specialist,Hybrid,2016-10-09,8.8,Below Average,69.71,22,9,141449
+EMP0069,Katie Anderson,Male,44,IT Support,Support Specialist,Hybrid,2021-06-18,4.1,Good,74.82,16,20,74725
+EMP0070,Sherry Wood,Female,28,HR,Recruiter,Remote,2018-03-18,7.3,Poor,85.42,26,14,122708
+EMP0071,Joshua Turner,Male,55,Finance,Financial Analyst,Hybrid,2024-07-10,1.0,Good,92.33,17,15,90931
+EMP0072,Robert Evans,Female,37,Sales,Sales Manager,Onsite,2017-04-15,8.2,Good,78.03,24,14,104691
+EMP0073,Brandy Wilson,Female,23,Marketing,SEO Specialist,Remote,2017-05-07,8.2,Below Average,67.27,6,11,134573
+EMP0074,Brittney Campbell,Female,60,Engineering,DevOps Engineer,Hybrid,2019-02-09,6.4,Below Average,82.23,16,6,41221
+EMP0075,Christina Walters,Female,57,Finance,Financial Analyst,Onsite,2020-01-07,5.5,Average,85.84,15,14,133931
+EMP0076,Danielle Odonnell,Female,36,HR,HR Manager,Remote,2016-05-22,9.1,Average,72.25,18,11,92031
+EMP0077,Jeff Hill,Female,57,Marketing,SEO Specialist,Remote,2015-08-03,9.9,Good,78.15,9,8,60217
+EMP0078,Carlos Whitney,Female,29,HR,HR Manager,Hybrid,2018-04-11,7.3,Average,90.49,5,6,58361
+EMP0079,Kristen Patterson,Female,59,IT Support,Network Admin,Hybrid,2015-09-10,9.8,Average,99.22,26,6,68829
+EMP0080,Tony Vazquez,Male,41,Finance,Financial Analyst,Onsite,2018-01-23,7.5,Average,65.06,1,1,102529
+EMP0081,Sandra Aguilar,Male,53,Engineering,QA Engineer,Onsite,2018-01-17,7.5,Below Average,82.96,15,15,87733
+EMP0082,Andrew Diaz,Male,38,Engineering,Software Engineer,Remote,2016-03-15,9.3,Excellent,62.61,15,2,105631
+EMP0083,Christine Wright,Male,31,IT Support,Support Specialist,Hybrid,2017-04-10,8.3,Below Average,63.41,7,3,103147
+EMP0084,Justin Baxter,Male,55,Operations,Logistics Coordinator,Remote,2018-02-26,7.4,Good,77.71,27,18,86207
+EMP0085,Cynthia Martin,Male,28,Engineering,QA Engineer,Onsite,2018-07-16,7.0,Average,70.59,2,5,61439
+EMP0086,Allison Doyle,Male,22,Finance,Accountant,Remote,2021-03-06,4.4,Good,83.75,9,1,60340
+EMP0087,Jennifer Santiago,Female,51,Engineering,QA Engineer,Onsite,2019-10-01,5.8,Average,96.96,25,20,107304
+EMP0088,Richard Rodriguez,Female,29,IT Support,Support Specialist,Hybrid,2016-03-08,9.4,Good,65.96,8,4,39359
+EMP0089,Courtney Velasquez,Female,60,HR,HR Manager,Hybrid,2023-05-11,2.2,Below Average,96.85,14,3,91433
+EMP0090,Robert Savage,Female,39,IT Support,Network Admin,Hybrid,2019-04-27,6.2,Average,77.51,19,1,146578
+EMP0091,Corey Murphy,Female,23,Sales,Sales Manager,Onsite,2016-09-15,8.8,Good,86.97,27,18,106955
+EMP0092,Diana May,Male,33,HR,Recruiter,Remote,2022-04-29,3.2,Average,77.69,8,5,106720
+EMP0093,Sarah Rivera,Male,52,Sales,Sales Manager,Remote,2015-12-30,9.5,Good,72.84,3,5,73228
+EMP0094,Wesley White,Female,47,Sales,Sales Manager,Hybrid,2020-01-16,5.5,Excellent,63.52,8,10,45194
+EMP0095,Kyle Reed,Male,56,Operations,Logistics Coordinator,Remote,2020-11-11,4.7,Good,67.5,11,19,129148
+EMP0096,William Wilson,Male,35,Sales,Sales Manager,Remote,2025-05-02,0.2,Average,97.11,14,15,45915
+EMP0097,Andrew Graham,Male,41,HR,HR Manager,Hybrid,2024-05-15,1.2,Excellent,76.32,7,3,90482
+EMP0098,Kimberly Ball,Female,40,HR,HR Manager,Hybrid,2018-11-17,6.7,Average,76.62,15,15,61946
+EMP0099,Benjamin Beck,Female,34,Sales,Sales Executive,Hybrid,2021-02-21,4.4,Average,95.17,27,2,66208
+EMP0100,Mary Martinez,Female,54,Operations,Logistics Coordinator,Remote,2020-08-20,4.9,Below Average,71.31,9,18,106011
+EMP0101,Mary Nguyen,Male,50,IT Support,Network Admin,Hybrid,2020-07-22,5.0,Good,73.3,24,17,79441
+EMP0102,Cheryl Ortega,Male,37,Sales,Sales Manager,Hybrid,2021-12-22,3.6,Good,94.24,13,1,71704
+EMP0103,Stephanie Gilbert,Female,46,IT Support,Network Admin,Hybrid,2020-08-24,4.9,Average,86.08,4,15,34852
+EMP0104,Roy Torres,Male,50,Finance,Financial Analyst,Onsite,2019-02-07,6.4,Average,78.28,23,4,83736
+EMP0105,Kevin Pena,Male,52,Operations,Operations Manager,Remote,2023-06-09,2.1,Good,87.71,20,2,141642
+EMP0106,Michael Dixon,Female,42,Engineering,QA Engineer,Hybrid,2018-05-31,7.1,Average,90.38,27,17,34705
+EMP0107,Diane Beck,Male,40,Marketing,Marketing Executive,Onsite,2021-03-24,4.3,Average,77.36,3,20,122260
+EMP0108,Trevor Young,Female,32,Operations,Operations Manager,Hybrid,2020-10-21,4.7,Good,61.16,10,1,68452
+EMP0109,Curtis Johnson,Female,31,Engineering,DevOps Engineer,Onsite,2019-09-10,5.8,Average,82.64,25,5,52280
+EMP0110,Miss Patricia Gibson,Female,37,Finance,Accountant,Remote,2025-04-27,0.2,Below Average,65.72,14,20,63289
+EMP0111,Michael Snyder,Male,51,Sales,Sales Manager,Remote,2019-09-05,5.9,Average,66.32,14,11,107014
+EMP0112,Michael Stafford,Female,38,Engineering,QA Engineer,Remote,2017-05-04,8.2,Below Average,67.97,12,15,43979
+EMP0113,Colleen Brock,Female,58,Finance,Financial Analyst,Remote,2024-05-03,1.2,Poor,71.81,26,12,65976
+EMP0114,Justin Lowery,Female,40,HR,HR Manager,Onsite,2017-08-04,7.9,Average,74.09,20,6,111381
+EMP0115,Robert Contreras,Male,28,Engineering,QA Engineer,Hybrid,2025-01-13,0.5,Average,72.36,14,1,105965
+EMP0116,Tiffany Vance,Male,27,Engineering,QA Engineer,Remote,2024-02-11,1.4,Good,76.62,6,4,133089
+EMP0117,Terry Griffin,Female,32,Marketing,SEO Specialist,Remote,2018-03-26,7.3,Below Average,97.77,30,9,127853
+EMP0118,Karen Green,Male,51,Operations,Logistics Coordinator,Onsite,2019-09-25,5.8,Excellent,98.66,27,12,140853
+EMP0119,Destiny Strickland,Male,47,Operations,Logistics Coordinator,Onsite,2023-10-09,1.8,Good,64.94,11,8,106619
+EMP0120,Denise Jones,Male,36,Sales,Sales Manager,Remote,2020-05-21,5.1,Excellent,95.37,17,10,149964
+EMP0121,George Orozco,Male,51,Marketing,Marketing Executive,Hybrid,2016-11-23,8.6,Good,76.33,4,1,34877
+EMP0122,David Benson,Male,28,Engineering,DevOps Engineer,Onsite,2019-03-02,6.4,Below Average,65.43,14,11,117881
+EMP0123,Jason Daniels,Male,48,IT Support,Network Admin,Hybrid,2022-08-07,2.9,Excellent,79.57,13,8,34288
+EMP0124,Ross Price,Male,50,IT Support,Network Admin,Remote,2025-06-18,0.1,Poor,94.22,3,11,101364
+EMP0125,Alicia Gilmore,Male,47,IT Support,Network Admin,Remote,2025-04-27,0.2,Excellent,64.89,27,14,42015
+EMP0126,Aaron Bell,Male,25,IT Support,Support Specialist,Remote,2022-02-28,3.4,Good,65.04,18,6,38992
+EMP0127,Tiffany Barnes,Male,36,Operations,Operations Manager,Remote,2024-10-25,0.7,Average,91.55,19,0,66342
+EMP0128,Stephanie Freeman,Male,56,Operations,Operations Manager,Remote,2020-03-02,5.4,Average,64.4,27,0,47275
+EMP0129,Allen Rogers,Male,59,HR,Recruiter,Remote,2022-05-28,3.1,Excellent,70.61,4,13,98955
+EMP0130,Sara Calhoun,Female,50,HR,HR Manager,Remote,2024-08-11,0.9,Average,64.36,16,7,110623
+EMP0131,James Elliott,Female,23,HR,Recruiter,Onsite,2015-12-27,9.5,Poor,93.89,13,3,94260
+EMP0132,Jeffrey Camacho,Male,27,IT Support,Network Admin,Remote,2018-08-14,6.9,Average,62.63,8,19,112978
+EMP0133,James Lewis,Female,60,Marketing,SEO Specialist,Hybrid,2021-01-31,4.4,Good,80.22,13,3,133952
+EMP0134,Shawn Ramirez,Male,49,IT Support,Support Specialist,Remote,2022-09-12,2.8,Below Average,76.55,26,14,82262
+EMP0135,Bradley Smith,Female,49,Sales,Sales Executive,Remote,2024-09-13,0.8,Average,74.97,4,15,38799
+EMP0136,Trevor Walker,Male,49,HR,HR Manager,Onsite,2016-09-10,8.8,Average,74.91,4,17,37861
+EMP0137,Marissa Webster,Male,48,Marketing,SEO Specialist,Remote,2019-09-25,5.8,Below Average,97.65,13,1,67700
+EMP0138,Alex Hernandez,Female,28,Marketing,SEO Specialist,Hybrid,2017-09-03,7.9,Average,66.19,15,7,141054
+EMP0139,Brian Gould,Female,29,HR,Recruiter,Remote,2023-06-09,2.1,Average,92.29,27,17,130588
+EMP0140,Pamela Jackson,Female,23,Operations,Operations Manager,Onsite,2017-06-22,8.1,Good,90.5,29,10,76009
+EMP0141,Carla Collins,Male,58,HR,HR Manager,Hybrid,2025-05-15,0.2,Good,65.67,20,0,42026
+EMP0142,Eric Byrd,Female,48,IT Support,Support Specialist,Remote,2021-11-29,3.6,Good,74.8,23,10,131821
+EMP0143,Miguel Jones,Male,31,Marketing,Marketing Executive,Onsite,2019-08-29,5.9,Average,61.99,2,8,88079
+EMP0144,Raymond Jefferson,Female,60,IT Support,Network Admin,Remote,2017-08-02,7.9,Good,68.62,16,3,75242
+EMP0145,Kylie Williams,Female,59,Sales,Sales Executive,Remote,2024-08-03,0.9,Average,72.34,7,12,108554
+EMP0146,Jacob Hunter,Male,41,HR,HR Manager,Onsite,2021-05-01,4.2,Average,90.57,9,10,45726
+EMP0147,Jason Henry,Female,33,HR,Recruiter,Onsite,2022-11-25,2.6,Good,88.15,16,17,139229
+EMP0148,Madison Poole,Male,47,IT Support,Network Admin,Hybrid,2018-02-16,7.4,Excellent,60.75,29,2,142998
+EMP0149,Nicholas Sheppard,Female,58,Engineering,QA Engineer,Remote,2020-02-14,5.4,Average,76.71,3,12,32733
+EMP0150,Tamara Hampton,Female,45,Engineering,Software Engineer,Onsite,2023-06-08,2.1,Good,64.23,13,18,82487
+EMP0151,Nicholas Adams,Female,41,Marketing,Marketing Executive,Hybrid,2019-09-14,5.8,Good,73.32,5,2,96910
+EMP0152,Angelica Keith,Male,44,IT Support,Support Specialist,Remote,2019-09-04,5.9,Average,92.76,26,4,60968
+EMP0153,Laura Barnett,Female,34,HR,HR Manager,Onsite,2021-04-01,4.3,Average,90.41,20,2,53218
+EMP0154,Samuel White,Female,58,Operations,Logistics Coordinator,Hybrid,2019-02-19,6.4,Good,96.97,18,20,113269
+EMP0155,David Ramirez,Female,31,Marketing,SEO Specialist,Remote,2020-03-23,5.3,Excellent,77.69,9,8,107518
+EMP0156,Kellie Lee,Male,41,HR,Recruiter,Remote,2019-08-19,5.9,Good,62.28,26,9,40057
+EMP0157,Katherine Chang,Female,51,IT Support,Support Specialist,Hybrid,2023-08-17,1.9,Average,91.67,28,1,88947
+EMP0158,Katherine Mcguire,Female,60,Operations,Operations Manager,Remote,2017-02-09,8.4,Average,98.31,14,3,136295
+EMP0159,Jared Sanchez,Male,54,Operations,Logistics Coordinator,Hybrid,2025-06-02,0.1,Excellent,69.91,14,14,98690
+EMP0160,Juan Cooper,Female,45,Marketing,Marketing Executive,Remote,2024-11-20,0.6,Good,90.98,21,19,36863
+EMP0161,Michael Nelson,Male,43,Operations,Logistics Coordinator,Onsite,2019-10-21,5.7,Average,75.46,8,19,144462
+EMP0162,Nathan Stewart,Male,59,Finance,Financial Analyst,Hybrid,2024-08-22,0.9,Excellent,73.99,30,20,121551
+EMP0163,Melissa Lee,Male,60,IT Support,Network Admin,Hybrid,2023-10-06,1.8,Below Average,72.38,12,20,133764
+EMP0164,Kevin Wolf,Male,49,Engineering,Software Engineer,Hybrid,2020-05-04,5.2,Good,74.5,5,6,74791
+EMP0165,Dr. Elizabeth Ward,Male,36,Operations,Logistics Coordinator,Onsite,2020-09-01,4.9,Excellent,71.83,25,3,96543
+EMP0166,Joseph Hill,Female,30,Operations,Operations Manager,Hybrid,2016-06-14,9.1,Good,66.49,26,19,136042
+EMP0167,Melissa Martinez,Male,48,Finance,Financial Analyst,Remote,2023-11-17,1.7,Average,69.5,14,19,67346
+EMP0168,Adam Mitchell,Male,56,Operations,Logistics Coordinator,Onsite,2023-09-02,1.9,Good,92.34,15,6,78213
+EMP0169,Cody Williams,Female,40,IT Support,Network Admin,Remote,2023-08-27,1.9,Average,76.75,5,6,135022
+EMP0170,Austin Vasquez,Female,25,Marketing,Marketing Executive,Hybrid,2025-05-05,0.2,Good,74.85,29,3,123244
+EMP0171,Amy Hernandez,Female,27,Operations,Operations Manager,Onsite,2025-02-06,0.4,Good,96.21,4,13,42021
+EMP0172,Angela Wright,Female,23,Finance,Financial Analyst,Remote,2025-01-07,0.5,Excellent,80.08,7,12,40696
+EMP0173,Lisa Gibbs,Male,42,Engineering,Software Engineer,Onsite,2019-05-14,6.2,Below Average,86.0,25,4,48035
+EMP0174,Jamie Kerr,Female,30,HR,Recruiter,Hybrid,2020-08-01,4.9,Good,84.61,28,2,32490
+EMP0175,Wanda Torres,Male,57,Engineering,Software Engineer,Hybrid,2016-07-20,9.0,Average,76.93,24,9,61147
+EMP0176,Natalie Meza,Male,37,Engineering,Software Engineer,Remote,2019-01-23,6.5,Average,84.91,2,3,139666
+EMP0177,Deborah Miller,Male,31,Sales,Sales Executive,Remote,2019-08-10,5.9,Good,84.59,7,18,84600
+EMP0178,Benjamin Smith,Female,26,Finance,Accountant,Hybrid,2023-03-11,2.3,Average,91.46,16,17,32665
+EMP0179,Julie Johnson,Male,46,Sales,Sales Manager,Remote,2020-06-05,5.1,Good,60.65,25,2,75193
+EMP0180,Michele Gibson,Female,30,Finance,Accountant,Onsite,2019-07-01,6.0,Good,73.54,20,5,138840
+EMP0181,Rachel Weber,Female,33,Operations,Logistics Coordinator,Onsite,2018-11-22,6.6,Excellent,91.05,14,1,68462
+EMP0182,Joshua Holland,Male,24,Finance,Accountant,Remote,2020-01-17,5.5,Below Average,80.62,26,17,92049
+EMP0183,Andrea Martin,Male,40,Engineering,Software Engineer,Remote,2020-10-04,4.8,Below Average,61.91,20,10,65811
+EMP0184,Samantha Morse,Female,47,HR,Recruiter,Hybrid,2022-12-30,2.5,Good,98.26,10,5,95038
+EMP0185,Michael Lyons,Female,55,IT Support,Network Admin,Remote,2020-02-27,5.4,Below Average,89.08,2,13,108964
+EMP0186,Katherine Miller,Female,42,Operations,Operations Manager,Onsite,2016-03-15,9.3,Excellent,86.44,9,14,108986
+EMP0187,Morgan Munoz,Male,50,IT Support,Network Admin,Remote,2015-12-19,9.6,Good,89.07,29,11,110589
+EMP0188,Vernon Huff,Male,26,Sales,Sales Manager,Hybrid,2025-04-24,0.2,Average,74.53,25,5,34081
+EMP0189,Alicia Hubbard,Male,30,Finance,Financial Analyst,Onsite,2020-02-10,5.4,Good,85.81,11,12,104349
+EMP0190,Pamela Thompson,Female,45,HR,HR Manager,Remote,2024-05-09,1.2,Good,63.08,4,16,78096
+EMP0191,Sydney White,Female,37,Sales,Sales Manager,Onsite,2025-06-26,0.0,Excellent,67.44,16,12,149739
+EMP0192,Robert Costa,Female,38,Marketing,Marketing Executive,Hybrid,2023-07-10,2.0,Good,99.85,9,15,56237
+EMP0193,Gary Santiago,Male,50,HR,HR Manager,Onsite,2018-04-06,7.3,Below Average,77.8,2,10,117535
+EMP0194,Michael Roberts,Male,57,Engineering,QA Engineer,Hybrid,2022-05-04,3.2,Good,72.0,5,20,52818
+EMP0195,Krista Gibson,Male,29,Operations,Logistics Coordinator,Onsite,2020-11-16,4.7,Average,69.47,15,0,77303
+EMP0196,Brian Barton,Female,57,Marketing,SEO Specialist,Onsite,2024-04-12,1.2,Average,63.45,9,12,123969
+EMP0197,April Booth,Female,48,IT Support,Network Admin,Hybrid,2023-05-21,2.1,Excellent,98.9,20,2,88979
+EMP0198,Cody Cox,Male,57,Sales,Sales Manager,Hybrid,2024-01-03,1.5,Average,90.71,4,13,95911
+EMP0199,Olivia Harris,Male,55,Operations,Operations Manager,Onsite,2024-11-13,0.7,Good,66.48,29,7,75353
+EMP0200,Dwayne Gilmore,Male,38,Marketing,SEO Specialist,Onsite,2023-10-09,1.8,Average,82.03,4,20,69691
+EMP0201,William Lynch,Male,59,Marketing,Marketing Executive,Hybrid,2019-08-06,5.9,Excellent,86.35,23,19,74252
+EMP0202,Emily Smith,Male,27,Operations,Operations Manager,Onsite,2022-06-20,3.1,Below Average,90.84,8,20,57631
+EMP0203,Willie Durham,Male,53,Operations,Logistics Coordinator,Hybrid,2023-05-18,2.2,Average,85.68,9,15,62096
+EMP0204,Maria Moore,Female,51,Operations,Logistics Coordinator,Onsite,2020-06-28,5.0,Average,66.32,13,15,90875
+EMP0205,Denise Davenport,Male,42,Finance,Financial Analyst,Hybrid,2023-07-24,2.0,Good,99.52,11,12,47139
+EMP0206,Juan Reyes,Male,42,Operations,Logistics Coordinator,Onsite,2024-03-04,1.4,Good,70.7,7,4,42689
+EMP0207,Breanna Jones,Female,48,HR,Recruiter,Onsite,2022-08-02,2.9,Poor,96.09,26,10,105718
+EMP0208,Richard Adams,Male,32,IT Support,Network Admin,Remote,2015-07-27,10.0,Poor,78.67,28,9,95191
+EMP0209,Edwin Matthews,Female,54,HR,HR Manager,Remote,2023-11-09,1.7,Poor,68.61,11,1,36624
+EMP0210,Jill Washington,Female,40,Engineering,DevOps Engineer,Hybrid,2021-03-07,4.4,Excellent,64.3,4,8,125355
+EMP0211,Kimberly Gibson,Female,24,Engineering,DevOps Engineer,Remote,2020-12-31,4.5,Excellent,82.47,11,17,67827
+EMP0212,Veronica Allen,Female,57,HR,Recruiter,Remote,2022-01-15,3.5,Below Average,84.93,19,3,46864
+EMP0213,Reginald Williams,Female,43,HR,Recruiter,Hybrid,2023-07-28,2.0,Below Average,90.2,6,19,96731
+EMP0214,Roberta Hughes,Male,24,Sales,Sales Executive,Onsite,2018-02-11,7.4,Average,92.16,16,14,49521
+EMP0215,Andrew Shaw MD,Female,42,Marketing,Marketing Executive,Onsite,2017-03-26,8.3,Good,84.66,26,9,107820
+EMP0216,Jessica Fox,Female,58,Engineering,QA Engineer,Remote,2023-04-20,2.2,Good,60.67,10,3,84596
+EMP0217,Charles Pitts,Male,60,Marketing,SEO Specialist,Remote,2018-02-25,7.4,Good,86.22,24,18,105711
+EMP0218,Richard Baker,Female,32,Finance,Accountant,Hybrid,2022-04-15,3.2,Average,84.79,26,12,49369
+EMP0219,Sarah Phelps,Male,58,Operations,Operations Manager,Hybrid,2024-08-08,0.9,Excellent,60.76,10,13,49848
+EMP0220,Eugene Higgins,Female,54,Sales,Sales Executive,Hybrid,2023-10-30,1.7,Below Average,94.91,23,1,122507
+EMP0221,Amanda Jones,Female,52,Finance,Accountant,Hybrid,2020-05-31,5.1,Good,98.27,14,17,74869
+EMP0222,Nicole Hamilton MD,Female,52,Marketing,SEO Specialist,Onsite,2017-03-27,8.3,Poor,71.16,9,7,69008
+EMP0223,Michael Berger,Male,53,Operations,Logistics Coordinator,Remote,2016-04-22,9.2,Good,82.42,29,8,67721
+EMP0224,Anthony Howard,Female,44,HR,Recruiter,Onsite,2022-11-08,2.7,Good,71.51,22,2,75398
+EMP0225,Joseph Knight,Female,35,Sales,Sales Manager,Onsite,2018-08-03,6.9,Below Average,70.85,17,8,47992
+EMP0226,Bob Pitts,Male,25,HR,HR Manager,Hybrid,2019-08-16,5.9,Below Average,69.03,7,1,43133
+EMP0227,Mr. David Little MD,Female,28,Sales,Sales Manager,Hybrid,2015-09-08,9.8,Average,60.21,17,5,83334
+EMP0228,Julie Roberts,Female,34,IT Support,Network Admin,Remote,2024-10-28,0.7,Good,85.84,29,2,115498
+EMP0229,Jeremy Reed,Male,33,Marketing,Marketing Executive,Remote,2025-07-10,0.0,Below Average,67.03,29,1,139602
+EMP0230,Victor Vaughn,Male,40,Sales,Sales Manager,Onsite,2023-04-19,2.2,Excellent,82.72,3,10,67298
+EMP0231,Christina Cruz,Male,54,Sales,Sales Manager,Remote,2023-09-30,1.8,Good,92.35,10,5,125829
+EMP0232,James Howard,Male,22,Sales,Sales Manager,Hybrid,2020-07-23,5.0,Good,71.8,21,6,53002
+EMP0233,Elizabeth Spence DDS,Female,54,Marketing,SEO Specialist,Remote,2020-03-12,5.3,Excellent,86.77,5,4,92580
+EMP0234,Sean Osborne,Male,38,Engineering,Software Engineer,Remote,2016-05-11,9.2,Good,90.15,30,10,69576
+EMP0235,Natasha Wall,Female,45,Marketing,Marketing Executive,Hybrid,2020-05-24,5.1,Good,86.71,14,9,50934
+EMP0236,Crystal Pham,Male,40,Sales,Sales Manager,Remote,2019-04-02,6.3,Average,68.77,4,15,50078
+EMP0237,Lisa Byrd,Female,57,Sales,Sales Manager,Remote,2017-11-07,7.7,Average,92.08,26,6,129858
+EMP0238,Stephanie Lucas,Female,55,Finance,Accountant,Hybrid,2020-10-12,4.8,Good,96.69,3,1,138629
+EMP0239,Amanda Diaz,Male,32,Marketing,Marketing Executive,Remote,2017-10-05,7.8,Below Average,77.67,21,6,123967
+EMP0240,Edward Burgess,Male,54,Marketing,SEO Specialist,Remote,2018-07-07,7.0,Below Average,78.14,16,13,89873
+EMP0241,Richard Walter,Female,41,Marketing,Marketing Executive,Hybrid,2021-10-01,3.8,Excellent,70.18,0,6,105800
+EMP0242,Susan Rivas,Female,44,HR,HR Manager,Hybrid,2019-11-24,5.6,Excellent,99.76,29,2,91875
+EMP0243,Terry Coffey,Female,33,HR,Recruiter,Onsite,2020-07-18,5.0,Average,99.13,20,13,79081
+EMP0244,Gina Wilson,Female,46,Sales,Sales Manager,Onsite,2016-10-21,8.7,Average,86.47,17,4,115660
+EMP0245,Vincent Dalton,Male,33,Operations,Logistics Coordinator,Hybrid,2022-04-15,3.2,Good,65.09,7,0,129113
+EMP0246,Regina Diaz,Female,56,HR,Recruiter,Remote,2022-03-28,3.3,Average,92.93,7,14,75371
+EMP0247,Joshua Gibson,Male,29,Finance,Financial Analyst,Onsite,2019-12-27,5.5,Below Average,76.77,24,0,61544
+EMP0248,Samantha Bentley,Male,60,Finance,Accountant,Onsite,2017-05-15,8.2,Good,86.88,27,1,62077
+EMP0249,Kaitlyn Harvey,Female,50,IT Support,Support Specialist,Onsite,2025-01-28,0.5,Average,90.18,24,1,48367
+EMP0250,Leonard Holland,Male,58,Marketing,SEO Specialist,Remote,2023-06-04,2.1,Average,90.9,26,10,61051
+EMP0251,Elizabeth Ortiz,Male,48,Engineering,Software Engineer,Remote,2017-11-26,7.6,Good,82.27,18,5,112050
+EMP0252,Andrew Ferrell,Female,25,IT Support,Network Admin,Remote,2017-07-02,8.0,Below Average,86.85,25,16,71777
+EMP0253,Stephen Taylor,Female,31,IT Support,Network Admin,Remote,2023-03-30,2.3,Good,90.18,15,7,141324
+EMP0254,Travis Horton,Male,51,Finance,Financial Analyst,Onsite,2024-09-18,0.8,Average,98.71,17,16,47575
+EMP0255,Patrick Moore,Female,35,Sales,Sales Executive,Remote,2022-08-02,2.9,Average,96.89,27,11,42119
+EMP0256,Sandra Gilbert,Male,39,Marketing,Marketing Executive,Remote,2020-04-14,5.2,Average,84.12,27,2,54662
+EMP0257,Jacob Ramos,Female,35,Operations,Operations Manager,Remote,2019-07-18,6.0,Good,96.36,6,6,127186
+EMP0258,Ariana Jennings,Male,60,HR,Recruiter,Hybrid,2024-10-15,0.7,Good,96.61,17,10,131648
+EMP0259,Maria Brown,Female,56,Engineering,DevOps Engineer,Hybrid,2020-03-21,5.3,Good,70.46,16,15,91080
+EMP0260,Bryan Charles,Female,35,HR,Recruiter,Remote,2023-04-06,2.3,Good,61.83,27,7,127157
+EMP0261,Daniel Fowler,Female,57,Finance,Accountant,Hybrid,2015-11-21,9.6,Average,76.7,4,6,73236
+EMP0262,Gavin Zhang,Male,53,Finance,Financial Analyst,Hybrid,2025-02-17,0.4,Average,87.39,8,15,124838
+EMP0263,Ronald Spencer,Female,32,IT Support,Network Admin,Hybrid,2025-07-02,0.0,Average,66.77,23,17,94004
+EMP0264,Sergio Murphy,Male,26,Finance,Accountant,Hybrid,2018-01-13,7.5,Excellent,60.26,4,20,60334
+EMP0265,Linda Ramirez,Male,35,HR,HR Manager,Hybrid,2017-12-27,7.5,Good,62.42,20,19,149636
+EMP0266,Ms. Rebecca Rodriguez,Male,22,Sales,Sales Manager,Hybrid,2015-12-19,9.6,Average,60.47,16,8,100220
+EMP0267,Hunter Kramer,Female,33,Engineering,Software Engineer,Onsite,2021-01-12,4.5,Below Average,80.98,7,6,111235
+EMP0268,Derek Martinez,Female,39,Marketing,SEO Specialist,Remote,2022-09-08,2.8,Excellent,98.37,14,18,61877
+EMP0269,Nichole Alvarez,Female,27,IT Support,Support Specialist,Hybrid,2021-09-07,3.8,Poor,86.0,1,2,83120
+EMP0270,Ashley Gordon,Female,25,Sales,Sales Manager,Hybrid,2016-04-06,9.3,Excellent,66.86,15,13,114529
+EMP0271,Susan Hopkins,Male,55,Operations,Logistics Coordinator,Onsite,2020-08-28,4.9,Good,96.05,22,18,92324
+EMP0272,Victor Brown,Male,39,Engineering,Software Engineer,Hybrid,2023-09-04,1.9,Average,61.32,29,10,32052
+EMP0273,Jessica Rodriguez,Female,26,Finance,Accountant,Remote,2023-01-27,2.5,Excellent,69.62,26,12,118740
+EMP0274,Bobby Franklin,Female,30,Marketing,SEO Specialist,Hybrid,2016-08-23,8.9,Average,80.03,11,1,42803
+EMP0275,Marcus Richards,Male,43,Sales,Sales Executive,Hybrid,2021-01-21,4.5,Average,98.19,12,10,33883
+EMP0276,Kyle Phillips,Female,53,IT Support,Network Admin,Onsite,2024-02-16,1.4,Good,97.65,13,5,119088
+EMP0277,Annette Miles,Male,40,Marketing,SEO Specialist,Onsite,2024-11-26,0.6,Average,63.28,4,12,123280
+EMP0278,Cindy Hayes,Female,42,Operations,Operations Manager,Remote,2019-05-31,6.1,Excellent,60.21,9,14,77175
+EMP0279,Ronald Ross,Male,30,Operations,Logistics Coordinator,Onsite,2017-02-21,8.4,Excellent,77.95,17,16,83483
+EMP0280,Erik Scott,Male,44,HR,HR Manager,Hybrid,2018-02-14,7.4,Excellent,83.92,10,12,31617
+EMP0281,Kara Davis,Female,27,Engineering,DevOps Engineer,Hybrid,2016-12-23,8.6,Below Average,96.21,7,18,98302
+EMP0282,Brent Rodgers,Male,30,Finance,Financial Analyst,Remote,2017-09-27,7.8,Good,79.72,2,5,86973
+EMP0283,Laurie Hoffman,Female,52,Engineering,DevOps Engineer,Onsite,2021-02-18,4.4,Good,97.77,23,20,94985
+EMP0284,Jennifer Russo,Female,28,Marketing,Marketing Executive,Onsite,2022-09-21,2.8,Good,97.95,10,19,79792
+EMP0285,Michelle Schmitt,Female,43,Operations,Logistics Coordinator,Remote,2020-11-03,4.7,Below Average,94.38,19,4,69378
+EMP0286,Kenneth Lewis,Male,52,Engineering,QA Engineer,Remote,2023-09-24,1.8,Excellent,75.93,10,9,126321
+EMP0287,Brian Bruce,Male,42,IT Support,Network Admin,Remote,2021-10-11,3.8,Good,91.43,11,3,103905
+EMP0288,Donald Perez,Male,51,Finance,Accountant,Hybrid,2022-10-29,2.7,Good,91.91,26,2,137343
+EMP0289,Vanessa Cardenas,Female,30,Operations,Logistics Coordinator,Hybrid,2024-12-30,0.5,Good,70.11,4,13,133425
+EMP0290,Timothy Gallegos,Female,60,Sales,Sales Executive,Remote,2020-01-28,5.5,Average,81.37,29,13,101256
+EMP0291,Donald Farmer,Male,28,HR,Recruiter,Onsite,2021-04-22,4.2,Average,74.2,20,19,35806
+EMP0292,Christopher Thomas,Female,49,Marketing,SEO Specialist,Onsite,2022-05-06,3.2,Excellent,70.35,16,16,103137
+EMP0293,Patrick Bonilla,Female,45,Marketing,Marketing Executive,Remote,2017-02-01,8.4,Good,87.18,22,16,49758
+EMP0294,Cindy Barnes,Female,28,Engineering,Software Engineer,Remote,2021-04-29,4.2,Good,98.47,3,4,75656
+EMP0295,Eric Nguyen,Female,35,Engineering,DevOps Engineer,Hybrid,2025-03-07,0.3,Good,79.05,14,14,71800
+EMP0296,Sophia Moore,Male,29,HR,Recruiter,Onsite,2016-05-16,9.2,Below Average,85.92,21,5,127057
+EMP0297,Denise Stanley,Male,43,Finance,Accountant,Hybrid,2023-10-15,1.7,Good,78.48,25,12,112543
+EMP0298,Jennifer Lewis,Female,47,Finance,Accountant,Onsite,2024-03-29,1.3,Average,95.32,14,18,86302
+EMP0299,Jeffrey Campbell,Male,35,Sales,Sales Executive,Remote,2023-10-21,1.7,Average,92.35,2,18,43336
+EMP0300,Elizabeth Walker,Female,42,Operations,Operations Manager,Onsite,2016-06-16,9.1,Good,70.49,27,15,99168
+EMP0301,Eric Clark,Female,47,IT Support,Network Admin,Hybrid,2017-11-10,7.7,Excellent,74.08,14,19,52613
+EMP0302,Donna Wilson,Male,30,Operations,Logistics Coordinator,Remote,2023-12-27,1.5,Excellent,72.22,5,11,120890
+EMP0303,Casey James,Female,60,Finance,Financial Analyst,Onsite,2019-06-10,6.1,Average,76.92,15,20,100435
+EMP0304,Sandra Drake,Male,53,IT Support,Support Specialist,Remote,2016-10-01,8.8,Excellent,72.58,14,19,37026
+EMP0305,Patrick Graham,Male,53,Operations,Logistics Coordinator,Onsite,2023-05-07,2.2,Excellent,75.36,17,16,115599
+EMP0306,Shannon Johnston,Female,48,Sales,Sales Manager,Hybrid,2025-04-12,0.2,Below Average,79.55,2,18,34044
+EMP0307,Mark Roberts,Female,24,Operations,Operations Manager,Remote,2022-06-01,3.1,Good,71.55,24,14,104140
+EMP0308,Frederick Solis,Male,58,IT Support,Network Admin,Onsite,2023-05-09,2.2,Good,81.72,11,17,137821
+EMP0309,Tamara Davis,Female,56,Operations,Operations Manager,Onsite,2017-04-29,8.2,Poor,64.1,26,20,128480
+EMP0310,Kevin Warren,Male,50,Finance,Financial Analyst,Remote,2022-04-05,3.3,Good,92.67,14,3,131663
+EMP0311,Nichole Walker,Male,59,Operations,Operations Manager,Hybrid,2018-05-21,7.1,Good,88.43,20,13,51755
+EMP0312,Mark Schmidt,Male,35,Marketing,Marketing Executive,Onsite,2018-10-28,6.7,Average,81.29,19,17,52069
+EMP0313,Hannah Luna,Female,40,Engineering,QA Engineer,Hybrid,2018-01-14,7.5,Good,94.32,28,3,47771
+EMP0314,Charles Gonzalez,Male,39,Operations,Logistics Coordinator,Hybrid,2018-02-15,7.4,Excellent,94.64,7,4,123243
+EMP0315,Mary Thompson,Female,53,Engineering,Software Engineer,Onsite,2023-12-07,1.6,Average,70.75,13,12,89243
+EMP0316,Justin Riley,Female,54,HR,HR Manager,Hybrid,2025-02-16,0.4,Good,97.45,11,14,93968
+EMP0317,Victoria Morris,Male,27,Engineering,QA Engineer,Hybrid,2020-11-26,4.6,Poor,85.39,22,11,141425
+EMP0318,Barry Ramos,Male,49,HR,Recruiter,Onsite,2020-09-04,4.9,Good,72.91,9,10,101737
+EMP0319,Leslie Bell,Female,43,Marketing,Marketing Executive,Hybrid,2016-10-15,8.7,Average,61.84,20,14,32134
+EMP0320,Jesse Brown,Female,51,HR,HR Manager,Onsite,2020-05-29,5.1,Poor,77.11,22,4,145624
+EMP0321,Sean Wyatt,Male,39,IT Support,Network Admin,Onsite,2024-02-25,1.4,Average,70.02,11,20,51695
+EMP0322,Kevin Best,Female,36,HR,Recruiter,Remote,2016-03-22,9.3,Average,88.15,0,6,92496
+EMP0323,Robert Pearson,Male,55,HR,HR Manager,Hybrid,2020-12-29,4.5,Good,60.32,10,3,142766
+EMP0324,Kathryn Rosario,Female,26,Sales,Sales Executive,Onsite,2023-03-11,2.3,Good,89.23,3,3,71071
+EMP0325,Steven Cooper,Male,46,Engineering,DevOps Engineer,Onsite,2016-12-17,8.6,Average,87.09,2,16,103831
+EMP0326,Carrie Wright,Female,44,HR,HR Manager,Hybrid,2022-12-22,2.6,Good,89.93,29,13,110750
+EMP0327,Kelly Bishop MD,Male,27,IT Support,Network Admin,Onsite,2020-05-03,5.2,Excellent,64.93,23,12,76076
+EMP0328,Raymond Shelton,Male,37,Sales,Sales Manager,Remote,2016-06-01,9.1,Average,69.93,19,19,124526
+EMP0329,Maria Jones,Male,41,Marketing,SEO Specialist,Onsite,2017-02-18,8.4,Average,80.38,23,12,68737
+EMP0330,Jasmine King,Male,53,IT Support,Support Specialist,Remote,2018-01-31,7.4,Excellent,79.98,19,2,99243
+EMP0331,Kevin Thomas,Female,30,HR,Recruiter,Remote,2021-06-23,4.1,Below Average,82.74,11,17,119514
+EMP0332,Matthew Bates,Male,23,Finance,Financial Analyst,Hybrid,2017-09-20,7.8,Excellent,70.49,1,1,133453
+EMP0333,Teresa Collins,Female,49,Sales,Sales Manager,Hybrid,2021-12-07,3.6,Good,85.62,17,19,50012
+EMP0334,Erin Anderson,Female,27,Engineering,Software Engineer,Hybrid,2024-06-24,1.0,Below Average,98.97,4,17,72827
+EMP0335,Michael Romero,Female,49,Sales,Sales Executive,Hybrid,2015-11-02,9.7,Poor,69.55,7,2,86948
+EMP0336,Christopher Lewis,Male,41,HR,Recruiter,Hybrid,2023-10-19,1.7,Average,89.63,3,0,122785
+EMP0337,Zachary Moore,Male,53,Finance,Accountant,Remote,2020-07-22,5.0,Average,91.32,23,8,51884
+EMP0338,Ashley Wise,Female,29,Engineering,Software Engineer,Onsite,2024-06-25,1.0,Good,77.17,16,2,64465
+EMP0339,George Miranda,Female,51,IT Support,Support Specialist,Hybrid,2017-10-03,7.8,Good,79.98,18,5,78193
+EMP0340,Brittany White,Male,58,Finance,Financial Analyst,Hybrid,2018-05-05,7.2,Average,69.14,16,0,35772
+EMP0341,Amanda Diaz,Male,24,Operations,Operations Manager,Remote,2019-07-26,6.0,Good,96.81,5,1,102465
+EMP0342,Lisa Goodwin,Male,42,Operations,Logistics Coordinator,Onsite,2023-03-01,2.4,Good,88.81,8,2,104912
+EMP0343,David Sheppard,Male,33,Engineering,Software Engineer,Onsite,2023-07-04,2.0,Below Average,99.26,30,12,39034
+EMP0344,Cheyenne Gregory,Female,42,Sales,Sales Manager,Onsite,2025-03-25,0.3,Average,60.32,6,9,103899
+EMP0345,Mrs. Diane Reyes,Male,51,Operations,Logistics Coordinator,Remote,2024-07-01,1.0,Average,79.73,24,6,126005
+EMP0346,Christopher Gonzalez,Male,22,Marketing,Marketing Executive,Remote,2017-11-17,7.7,Excellent,81.66,20,0,73911
+EMP0347,Amy Castillo,Female,28,HR,Recruiter,Onsite,2021-11-03,3.7,Average,69.53,15,1,48661
+EMP0348,Ashley Singleton,Male,24,IT Support,Network Admin,Onsite,2017-08-24,7.9,Below Average,80.79,22,11,90091
+EMP0349,Phillip Nelson,Male,54,IT Support,Support Specialist,Onsite,2024-04-04,1.3,Average,75.77,18,18,38163
+EMP0350,Jeffrey Potts,Male,40,Sales,Sales Executive,Remote,2019-04-21,6.2,Below Average,97.04,12,10,71688
+EMP0351,Stacey Arias,Male,26,Sales,Sales Manager,Onsite,2022-08-02,2.9,Excellent,90.81,3,4,43848
+EMP0352,Jonathan Young,Female,42,Finance,Financial Analyst,Remote,2016-11-30,8.6,Excellent,74.33,24,6,89233
+EMP0353,Alfred Galvan,Female,29,Engineering,DevOps Engineer,Onsite,2021-03-25,4.3,Excellent,87.44,26,19,35286
+EMP0354,Brenda Mitchell,Male,27,Finance,Financial Analyst,Hybrid,2023-07-25,2.0,Good,74.23,16,1,118759
+EMP0355,Brenda Thornton,Male,23,Engineering,DevOps Engineer,Remote,2023-02-27,2.4,Below Average,82.24,17,7,42415
+EMP0356,Susan Smith,Male,29,Sales,Sales Executive,Onsite,2019-03-13,6.3,Excellent,91.24,7,4,55969
+EMP0357,Kimberly Acosta,Female,27,Operations,Logistics Coordinator,Hybrid,2024-07-03,1.0,Average,96.7,2,0,38450
+EMP0358,Ricardo Young,Male,27,Finance,Financial Analyst,Remote,2017-08-07,7.9,Excellent,97.69,1,5,105220
+EMP0359,Jason Bauer,Female,23,Sales,Sales Manager,Remote,2023-04-21,2.2,Average,66.91,6,5,66042
+EMP0360,Russell Porter,Male,24,Engineering,DevOps Engineer,Hybrid,2024-08-23,0.9,Average,69.83,9,15,84000
+EMP0361,Jose Allen,Male,27,Marketing,SEO Specialist,Remote,2017-12-20,7.6,Good,76.77,20,16,62656
+EMP0362,Aaron Gomez,Female,44,IT Support,Support Specialist,Remote,2025-03-26,0.3,Average,79.39,29,18,95849
+EMP0363,Matthew Miller,Female,33,Engineering,DevOps Engineer,Onsite,2021-08-29,3.9,Good,68.76,28,8,37679
+EMP0364,Joseph Romero,Female,59,Operations,Logistics Coordinator,Onsite,2024-02-29,1.4,Poor,64.01,21,7,64934
+EMP0365,Jeanette Harrison,Male,58,Marketing,Marketing Executive,Remote,2022-02-08,3.4,Good,93.57,27,5,53081
+EMP0366,Mrs. Alexis Kramer,Female,59,Finance,Financial Analyst,Onsite,2021-05-23,4.1,Average,74.07,18,18,48625
+EMP0367,Matthew Garcia,Female,56,Marketing,Marketing Executive,Remote,2025-06-04,0.1,Excellent,61.52,1,7,108861
+EMP0368,Evelyn Williams,Female,22,Finance,Accountant,Remote,2024-10-24,0.7,Below Average,68.06,4,10,123970
+EMP0369,Marvin Greer,Male,23,Finance,Financial Analyst,Onsite,2023-06-07,2.1,Average,96.69,24,3,140949
+EMP0370,Mrs. Catherine Taylor,Male,45,Marketing,SEO Specialist,Hybrid,2023-04-24,2.2,Below Average,75.82,3,10,69552
+EMP0371,Dakota Moody,Male,49,Engineering,Software Engineer,Hybrid,2016-03-28,9.3,Poor,85.97,5,17,120906
+EMP0372,Eric Sanders,Male,59,Marketing,SEO Specialist,Onsite,2024-10-06,0.8,Good,89.36,9,4,53292
+EMP0373,Andrew Lucas,Female,58,IT Support,Support Specialist,Onsite,2020-05-23,5.1,Excellent,72.73,25,19,58953
+EMP0374,Richard Glenn,Female,31,IT Support,Support Specialist,Remote,2021-03-04,4.4,Average,69.52,10,5,113386
+EMP0375,Robert Kim,Female,22,HR,Recruiter,Remote,2022-05-01,3.2,Good,87.73,11,8,133156
+EMP0376,Stephanie Hughes,Male,46,HR,HR Manager,Remote,2018-09-14,6.8,Average,98.76,28,13,94629
+EMP0377,Jonathan Glass MD,Female,28,Sales,Sales Manager,Remote,2016-12-06,8.6,Average,83.12,24,7,51319
+EMP0378,Angela Morrison,Male,40,Sales,Sales Executive,Onsite,2018-08-06,6.9,Good,98.07,2,10,52296
+EMP0379,Erica Miller,Male,57,Sales,Sales Executive,Onsite,2020-07-22,5.0,Good,99.41,28,15,122340
+EMP0380,Lance Simmons,Male,60,HR,Recruiter,Remote,2023-01-29,2.5,Excellent,64.05,6,6,83645
+EMP0381,Andrew Berg,Female,41,IT Support,Network Admin,Onsite,2021-07-10,4.0,Excellent,75.72,17,15,50131
+EMP0382,Jessica Fowler,Male,49,HR,Recruiter,Onsite,2016-07-02,9.0,Good,86.48,19,15,56171
+EMP0383,Mark Cox,Male,32,HR,HR Manager,Hybrid,2018-04-01,7.3,Good,63.28,27,3,70416
+EMP0384,Brenda Lawson,Female,53,Operations,Logistics Coordinator,Hybrid,2022-12-24,2.6,Good,85.67,12,5,78630
+EMP0385,Austin Osborne,Male,50,Sales,Sales Manager,Onsite,2021-10-04,3.8,Good,78.6,7,8,103956
+EMP0386,Travis Johnson,Male,27,HR,HR Manager,Hybrid,2018-02-19,7.4,Good,81.66,24,18,59820
+EMP0387,Tiffany Watson,Female,55,Marketing,Marketing Executive,Remote,2016-10-31,8.7,Poor,87.48,29,15,105066
+EMP0388,Kendra Sanders,Female,27,Finance,Financial Analyst,Remote,2020-04-07,5.3,Below Average,88.57,16,18,148024
+EMP0389,Brian Fitzgerald,Male,50,Marketing,Marketing Executive,Onsite,2024-01-06,1.5,Below Average,66.69,6,6,46539
+EMP0390,Susan Wilson,Male,49,HR,Recruiter,Onsite,2019-12-15,5.6,Poor,85.09,26,19,63801
+EMP0391,Cindy Carr,Male,27,Engineering,QA Engineer,Remote,2023-11-19,1.6,Average,82.08,27,8,98116
+EMP0392,Chad Jones,Female,29,Sales,Sales Executive,Remote,2018-06-18,7.1,Excellent,82.66,18,3,43845
+EMP0393,Jill Miller,Female,56,Marketing,Marketing Executive,Remote,2020-12-17,4.6,Below Average,70.57,20,15,104976
+EMP0394,Michelle Pierce,Male,33,Marketing,SEO Specialist,Remote,2020-06-19,5.1,Good,84.73,21,12,35083
+EMP0395,Sarah Joseph,Male,25,Sales,Sales Manager,Hybrid,2018-06-27,7.0,Good,70.74,11,0,74284
+EMP0396,Katie Martinez,Female,39,Operations,Logistics Coordinator,Remote,2018-12-11,6.6,Below Average,87.39,27,7,47614
+EMP0397,Cynthia Snyder,Female,42,Engineering,QA Engineer,Remote,2021-08-31,3.9,Average,84.2,2,6,87896
+EMP0398,Jackie Lara,Female,55,Finance,Financial Analyst,Remote,2024-11-28,0.6,Below Average,80.61,5,2,70779
+EMP0399,Stephen Jones,Male,55,IT Support,Network Admin,Hybrid,2022-04-20,3.2,Excellent,67.71,26,6,139704
+EMP0400,Dr. Kelly Hammond DVM,Male,51,HR,HR Manager,Onsite,2016-10-12,8.8,Below Average,88.19,8,11,137938
+EMP0401,Evan Jones,Male,23,Sales,Sales Manager,Onsite,2023-06-14,2.1,Good,83.76,5,15,106923
+EMP0402,Haley Humphrey,Female,32,Marketing,SEO Specialist,Remote,2024-11-26,0.6,Average,87.55,9,0,80667
+EMP0403,Catherine Burch,Male,36,HR,HR Manager,Hybrid,2022-11-20,2.6,Good,68.27,20,13,97276
+EMP0404,Sheena Guerra,Female,30,HR,HR Manager,Hybrid,2024-05-04,1.2,Excellent,92.03,7,8,109736
+EMP0405,Christopher Morris,Female,49,Operations,Logistics Coordinator,Remote,2019-05-13,6.2,Below Average,78.36,6,14,69602
+EMP0406,Todd Jacobson,Male,22,IT Support,Network Admin,Hybrid,2016-11-13,8.7,Poor,98.66,26,11,103591
+EMP0407,Mark Pierce,Female,28,IT Support,Network Admin,Remote,2017-08-27,7.9,Excellent,99.53,20,10,142917
+EMP0408,Lisa Davis,Female,34,Engineering,DevOps Engineer,Onsite,2018-05-24,7.1,Average,69.61,1,19,82965
+EMP0409,Lauren Jackson,Male,23,IT Support,Network Admin,Hybrid,2021-04-08,4.3,Good,71.82,29,13,83031
+EMP0410,Kristy Bryan,Male,43,Sales,Sales Executive,Hybrid,2016-01-04,9.5,Average,87.45,20,15,148820
+EMP0411,Travis Wise,Female,32,IT Support,Network Admin,Hybrid,2020-01-11,5.5,Below Average,67.25,3,15,46769
+EMP0412,Pamela Butler,Male,43,IT Support,Network Admin,Hybrid,2016-01-16,9.5,Excellent,74.21,23,9,85112
+EMP0413,Mr. Dylan Frye MD,Female,38,Operations,Logistics Coordinator,Hybrid,2022-06-08,3.1,Good,94.05,15,1,143559
+EMP0414,Benjamin Brown,Female,34,IT Support,Support Specialist,Hybrid,2023-01-02,2.5,Excellent,87.23,16,9,84146
+EMP0415,John Peterson,Male,34,HR,HR Manager,Remote,2017-12-20,7.6,Good,82.78,29,14,48772
+EMP0416,Nathan Gross,Male,27,Engineering,QA Engineer,Remote,2021-05-27,4.1,Good,99.47,10,20,37603
+EMP0417,Bianca Wood,Female,35,HR,Recruiter,Onsite,2025-01-29,0.4,Average,66.34,25,2,46961
+EMP0418,David Martinez,Female,47,Marketing,SEO Specialist,Remote,2023-03-05,2.4,Poor,75.33,1,17,56137
+EMP0419,Brent Roberts,Male,42,IT Support,Network Admin,Hybrid,2022-01-23,3.5,Excellent,87.07,20,7,59657
+EMP0420,Jennifer Estes,Female,30,IT Support,Network Admin,Onsite,2018-03-30,7.3,Good,83.55,5,2,137982
+EMP0421,Taylor Griffith,Female,51,HR,Recruiter,Hybrid,2018-10-03,6.8,Average,80.96,13,4,74922
+EMP0422,Kathleen Robertson,Male,32,Sales,Sales Manager,Remote,2024-01-05,1.5,Excellent,68.97,4,6,126216
+EMP0423,Kathleen Davis,Male,45,HR,HR Manager,Hybrid,2022-03-20,3.3,Average,61.49,28,20,63526
+EMP0424,Tracy Lewis,Male,28,Operations,Operations Manager,Hybrid,2021-07-12,4.0,Below Average,61.93,3,13,88237
+EMP0425,Douglas Harper,Female,52,Sales,Sales Executive,Hybrid,2023-07-14,2.0,Excellent,87.81,20,0,69467
+EMP0426,Adam Rodriguez,Female,60,Sales,Sales Executive,Hybrid,2017-10-21,7.7,Excellent,93.23,3,16,124210
+EMP0427,Monica Gallagher,Female,29,Marketing,Marketing Executive,Onsite,2021-10-01,3.8,Good,84.36,24,8,138986
+EMP0428,Anthony Hoffman,Female,48,Marketing,Marketing Executive,Remote,2021-09-10,3.8,Excellent,81.93,29,6,120204
+EMP0429,Angel Gordon,Male,22,Sales,Sales Manager,Onsite,2024-11-17,0.6,Average,96.28,26,18,117690
+EMP0430,William Becker,Male,54,Sales,Sales Executive,Onsite,2017-07-19,8.0,Average,64.05,8,20,60298
+EMP0431,Brent Brooks,Female,51,Sales,Sales Manager,Onsite,2021-04-18,4.2,Excellent,66.99,1,9,77214
+EMP0432,Holly Thomas,Female,29,Operations,Logistics Coordinator,Onsite,2024-03-09,1.3,Below Average,95.61,0,4,116947
+EMP0433,Andrew Williams,Female,44,IT Support,Support Specialist,Remote,2021-03-11,4.3,Poor,70.73,23,2,78840
+EMP0434,Kelly Hernandez,Male,29,Operations,Logistics Coordinator,Remote,2024-04-18,1.2,Good,78.26,26,12,120426
+EMP0435,Timothy Flores,Female,32,Operations,Logistics Coordinator,Onsite,2022-03-18,3.3,Excellent,89.06,30,5,43593
+EMP0436,Nancy Evans MD,Female,33,Sales,Sales Manager,Hybrid,2024-03-13,1.3,Good,74.34,0,4,93318
+EMP0437,Michelle Evans,Female,50,Sales,Sales Executive,Onsite,2015-10-23,9.7,Excellent,86.2,0,16,130601
+EMP0438,Michael Whitney,Female,55,IT Support,Support Specialist,Hybrid,2025-06-15,0.1,Average,84.73,13,7,93167
+EMP0439,Steven Wiggins,Female,31,Engineering,QA Engineer,Hybrid,2015-12-24,9.6,Below Average,84.52,0,20,50568
+EMP0440,Deborah Rios,Female,32,Marketing,SEO Specialist,Onsite,2025-05-14,0.2,Average,72.83,10,8,36599
+EMP0441,Mikayla Silva,Female,47,Marketing,Marketing Executive,Onsite,2018-06-05,7.1,Excellent,77.77,18,14,41536
+EMP0442,Michelle Hampton,Female,42,Operations,Logistics Coordinator,Onsite,2021-12-29,3.5,Poor,89.81,0,3,82879
+EMP0443,Michael Johnson,Male,27,Sales,Sales Executive,Hybrid,2017-05-24,8.1,Poor,85.5,28,16,103706
+EMP0444,Jeremy Barnes,Female,45,Finance,Financial Analyst,Onsite,2022-07-21,3.0,Below Average,93.77,10,17,130586
+EMP0445,Jennifer Hampton,Female,50,Marketing,SEO Specialist,Onsite,2023-07-20,2.0,Excellent,86.36,0,10,76548
+EMP0446,Nancy Brown,Female,28,Operations,Logistics Coordinator,Onsite,2017-11-16,7.7,Below Average,79.7,26,13,44019
+EMP0447,Kristina Bolton,Male,34,Engineering,QA Engineer,Onsite,2023-08-31,1.9,Below Average,75.72,14,6,123950
+EMP0448,Emily Thompson,Female,24,Engineering,Software Engineer,Hybrid,2024-08-05,0.9,Below Average,83.55,24,14,89950
+EMP0449,Hector Ingram,Female,22,IT Support,Support Specialist,Hybrid,2020-01-09,5.5,Average,82.13,13,18,93298
+EMP0450,Cheryl Wright,Male,30,Marketing,Marketing Executive,Onsite,2025-01-07,0.5,Good,84.02,28,10,96074
+EMP0451,Todd Hendrix,Male,39,Sales,Sales Manager,Remote,2020-06-10,5.1,Poor,98.82,14,4,48111
+EMP0452,Melissa Burns,Female,57,Sales,Sales Manager,Hybrid,2023-09-09,1.8,Good,68.39,22,9,119995
+EMP0453,Timothy Pope,Male,33,Engineering,QA Engineer,Hybrid,2020-03-06,5.4,Average,85.48,22,3,129716
+EMP0454,Kenneth Daniels,Female,59,Engineering,QA Engineer,Hybrid,2022-03-28,3.3,Below Average,88.4,21,17,67477
+EMP0455,Tina Ballard,Male,55,Operations,Logistics Coordinator,Onsite,2020-06-19,5.1,Excellent,65.81,21,1,56201
+EMP0456,Tyler Miller,Female,38,Engineering,Software Engineer,Onsite,2023-01-19,2.5,Below Average,87.62,9,6,128775
+EMP0457,Nicole Lewis,Female,50,Marketing,Marketing Executive,Onsite,2024-09-08,0.8,Average,87.02,17,7,127309
+EMP0458,Justin Nelson,Male,54,IT Support,Network Admin,Hybrid,2017-05-20,8.2,Good,86.58,29,12,80797
+EMP0459,Laurie Sanchez,Male,22,Sales,Sales Manager,Hybrid,2024-07-23,1.0,Good,84.82,24,14,138787
+EMP0460,David Garcia,Male,34,Finance,Financial Analyst,Remote,2021-02-22,4.4,Good,99.34,2,5,52779
+EMP0461,Ashlee Townsend,Female,24,IT Support,Support Specialist,Remote,2015-08-13,9.9,Good,70.57,5,18,140888
+EMP0462,Vanessa Moore,Female,51,Engineering,Software Engineer,Hybrid,2023-08-14,1.9,Below Average,61.6,29,10,108234
+EMP0463,Curtis Maynard,Female,58,HR,Recruiter,Hybrid,2020-12-27,4.5,Good,91.36,10,16,58830
+EMP0464,Anthony Mack,Male,48,Finance,Accountant,Hybrid,2025-04-17,0.2,Average,63.68,7,6,116944
+EMP0465,Parker Jefferson,Female,40,Engineering,DevOps Engineer,Onsite,2016-02-28,9.4,Poor,84.73,15,17,137962
+EMP0466,Carrie Khan,Male,44,Operations,Operations Manager,Remote,2018-07-08,7.0,Good,85.69,29,19,61958
+EMP0467,Amanda Huff,Female,29,HR,Recruiter,Remote,2023-12-15,1.6,Good,88.96,0,16,137755
+EMP0468,Paul Brennan,Female,53,Operations,Logistics Coordinator,Onsite,2020-06-13,5.1,Good,86.06,10,16,40793
+EMP0469,Alexandra Bradley,Male,26,HR,HR Manager,Onsite,2017-05-08,8.2,Average,90.94,27,13,139532
+EMP0470,Frances Gibson,Female,26,HR,HR Manager,Hybrid,2024-10-07,0.8,Average,60.95,22,10,34965
+EMP0471,Stacy Anderson,Male,33,HR,HR Manager,Remote,2024-02-08,1.4,Average,83.0,7,8,83429
+EMP0472,Corey Rodriguez,Female,49,Sales,Sales Manager,Remote,2018-04-16,7.2,Excellent,86.93,17,0,114072
+EMP0473,Mariah Higgins,Male,26,IT Support,Support Specialist,Remote,2015-10-07,9.8,Below Average,64.25,25,9,109503
+EMP0474,Rachel Bradley,Female,46,HR,Recruiter,Remote,2018-10-24,6.7,Below Average,61.23,5,17,58818
+EMP0475,Scott Prince,Female,31,Finance,Financial Analyst,Remote,2022-10-20,2.7,Average,96.57,25,20,78906
+EMP0476,Angie Caldwell,Male,24,HR,HR Manager,Onsite,2018-09-02,6.9,Average,75.76,17,2,69936
+EMP0477,Mrs. Taylor Smith,Male,48,Finance,Financial Analyst,Hybrid,2022-01-19,3.5,Below Average,65.7,5,7,110856
+EMP0478,Paul Finley,Male,29,Operations,Logistics Coordinator,Onsite,2020-08-30,4.9,Average,82.69,1,17,90458
+EMP0479,Laura Green,Female,26,IT Support,Support Specialist,Remote,2021-08-23,3.9,Excellent,89.02,15,10,76810
+EMP0480,Amy Wilson,Male,40,Finance,Accountant,Hybrid,2020-09-29,4.8,Excellent,67.74,15,14,73036
+EMP0481,Michael Leblanc,Male,58,Marketing,SEO Specialist,Hybrid,2020-10-25,4.7,Good,72.65,13,5,30633
+EMP0482,Margaret Shepard,Male,49,Engineering,Software Engineer,Remote,2021-10-11,3.8,Below Average,65.37,23,10,145066
+EMP0483,Colleen Anderson,Female,44,Sales,Sales Manager,Remote,2018-02-17,7.4,Good,64.35,20,19,40744
+EMP0484,William Brooks,Male,56,Operations,Logistics Coordinator,Onsite,2024-11-13,0.7,Good,95.45,2,2,146930
+EMP0485,Nicole Pham,Female,59,HR,HR Manager,Onsite,2019-03-30,6.3,Below Average,82.06,17,17,91879
+EMP0486,Melanie Larson,Female,47,IT Support,Support Specialist,Onsite,2016-12-01,8.6,Below Average,83.58,27,9,47548
+EMP0487,Kelsey Cox,Female,45,Sales,Sales Executive,Hybrid,2025-02-14,0.4,Excellent,69.56,30,19,119674
+EMP0488,Ronald Leach,Female,32,Finance,Accountant,Onsite,2018-12-19,6.6,Average,82.63,27,4,126458
+EMP0489,Brittany Murphy,Female,24,IT Support,Network Admin,Onsite,2024-05-18,1.2,Average,69.27,8,11,60673
+EMP0490,Michael Love,Female,46,HR,HR Manager,Remote,2023-11-04,1.7,Below Average,95.26,1,20,72476
+EMP0491,Jordan Stokes,Female,59,HR,Recruiter,Hybrid,2023-03-29,2.3,Average,75.07,12,11,107028
+EMP0492,Jason Elliott,Female,46,IT Support,Support Specialist,Onsite,2025-01-12,0.5,Average,74.12,27,11,93813
+EMP0493,Robert Cummings,Male,54,Operations,Logistics Coordinator,Onsite,2022-04-06,3.3,Good,69.2,16,20,66806
+EMP0494,Aaron Robinson,Male,32,Finance,Accountant,Remote,2016-10-07,8.8,Average,92.68,21,7,84344
+EMP0495,Gregory Brown,Male,52,Operations,Logistics Coordinator,Hybrid,2016-07-20,9.0,Good,68.43,5,20,139230
+EMP0496,Andrea Peck,Male,24,Sales,Sales Executive,Onsite,2016-01-25,9.5,Average,66.45,20,16,35136
+EMP0497,Christopher Taylor,Male,32,Marketing,Marketing Executive,Remote,2022-09-05,2.9,Below Average,80.67,12,19,103872
+EMP0498,Steven West,Female,27,IT Support,Support Specialist,Onsite,2021-12-12,3.6,Good,99.71,27,15,52356
+EMP0499,Michael Stanley,Male,59,Finance,Financial Analyst,Onsite,2024-09-13,0.8,Average,80.43,5,10,89437
+EMP0500,Scott Wilson,Male,46,Marketing,Marketing Executive,Remote,2024-08-31,0.9,Excellent,60.66,16,16,119701
+EMP0501,Cameron Irwin,Male,33,Sales,Sales Executive,Remote,2015-08-02,10.0,Below Average,83.99,28,17,95972
+EMP0502,Veronica Ford,Male,52,Operations,Operations Manager,Hybrid,2024-10-15,0.7,Excellent,84.14,26,0,147567
+EMP0503,James Hall,Female,45,Operations,Logistics Coordinator,Onsite,2023-05-13,2.2,Average,77.16,30,15,133488
+EMP0504,Donald Pineda,Female,59,Operations,Logistics Coordinator,Hybrid,2017-06-12,8.1,Below Average,93.49,18,3,85769
+EMP0505,Matthew Mendez,Female,36,Finance,Financial Analyst,Onsite,2015-10-17,9.7,Good,95.07,13,8,54775
+EMP0506,Austin Wheeler,Male,55,HR,HR Manager,Onsite,2023-02-14,2.4,Good,68.22,25,10,83588
+EMP0507,Michele Williams,Male,49,Engineering,Software Engineer,Hybrid,2016-04-11,9.3,Average,70.45,17,13,104012
+EMP0508,David Robinson,Female,47,Engineering,QA Engineer,Onsite,2016-06-26,9.0,Good,91.35,15,5,78524
+EMP0509,Wyatt Young,Female,41,Marketing,SEO Specialist,Hybrid,2025-04-29,0.2,Good,88.22,23,4,142066
+EMP0510,Kyle Chambers,Male,50,Operations,Operations Manager,Hybrid,2020-12-24,4.6,Below Average,64.01,16,12,133033
+EMP0511,Shawn Odom,Male,32,Engineering,QA Engineer,Remote,2024-05-23,1.1,Poor,60.21,2,4,91822
+EMP0512,Eric Brown,Male,26,Marketing,SEO Specialist,Remote,2018-07-04,7.0,Good,63.2,1,12,82513
+EMP0513,Jessica Simpson,Male,33,Marketing,SEO Specialist,Hybrid,2021-05-21,4.1,Good,60.43,27,16,67487
+EMP0514,Megan Floyd,Male,32,Finance,Accountant,Hybrid,2020-12-12,4.6,Excellent,69.57,0,5,41382
+EMP0515,Jennifer Evans,Female,47,Engineering,DevOps Engineer,Remote,2018-08-27,6.9,Average,80.71,23,2,41818
+EMP0516,Kara Atkinson,Female,44,Marketing,SEO Specialist,Remote,2020-08-22,4.9,Good,98.52,14,12,105354
+EMP0517,Brianna Ford,Male,48,HR,Recruiter,Hybrid,2016-07-04,9.0,Excellent,62.9,9,10,45336
+EMP0518,Tracy Grant,Female,50,Operations,Logistics Coordinator,Remote,2017-10-22,7.7,Average,90.8,24,10,131659
+EMP0519,David Rivera,Male,52,Sales,Sales Manager,Onsite,2016-11-14,8.7,Good,75.31,25,7,118724
+EMP0520,Sarah Davis,Female,48,IT Support,Support Specialist,Remote,2018-10-07,6.8,Average,60.39,26,8,62539
+EMP0521,James Jacobs,Female,43,Engineering,Software Engineer,Onsite,2016-03-13,9.3,Average,67.14,10,11,58647
+EMP0522,Chelsea Gill,Male,34,Marketing,SEO Specialist,Remote,2025-01-12,0.5,Average,69.39,7,8,57102
+EMP0523,Daniel Meadows,Male,44,Finance,Accountant,Onsite,2020-09-06,4.8,Average,64.8,2,15,110455
+EMP0524,Alexis Giles,Female,45,HR,HR Manager,Hybrid,2017-07-09,8.0,Good,95.92,28,18,143871
+EMP0525,Nicole Rocha,Male,54,Engineering,DevOps Engineer,Remote,2019-01-02,6.5,Good,90.01,4,1,98909
+EMP0526,David Morris,Female,56,Operations,Logistics Coordinator,Onsite,2020-05-04,5.2,Average,75.75,21,5,89925
+EMP0527,Joseph Howard,Female,22,HR,Recruiter,Onsite,2019-12-23,5.6,Average,75.18,3,10,77395
+EMP0528,Stephen Owens,Male,57,Marketing,SEO Specialist,Remote,2023-07-07,2.0,Good,78.85,19,10,77962
+EMP0529,Erica Harris,Female,35,Finance,Financial Analyst,Remote,2020-11-06,4.7,Average,74.89,27,12,66651
+EMP0530,Justin Walker,Male,58,Sales,Sales Executive,Hybrid,2018-01-03,7.5,Good,63.99,8,7,102789
+EMP0531,Juan Silva,Male,31,Sales,Sales Manager,Hybrid,2022-08-18,2.9,Excellent,92.23,5,13,95483
+EMP0532,Craig Hall,Female,41,Finance,Financial Analyst,Remote,2025-03-21,0.3,Average,82.71,12,3,120510
+EMP0533,Kathryn Pena,Male,38,Finance,Accountant,Remote,2021-04-08,4.3,Below Average,63.85,23,10,64048
+EMP0534,Roberto Levy,Female,44,Engineering,DevOps Engineer,Onsite,2023-11-15,1.7,Good,74.04,21,19,56077
+EMP0535,Nicholas Bell,Female,44,Marketing,Marketing Executive,Remote,2017-11-27,7.6,Average,79.5,23,14,146605
+EMP0536,Katherine Stark,Female,51,HR,Recruiter,Hybrid,2024-09-30,0.8,Poor,94.73,20,10,85288
+EMP0537,Tina Warren DVM,Male,27,IT Support,Network Admin,Onsite,2016-10-15,8.7,Good,72.54,20,9,123117
+EMP0538,Mary Duran,Female,39,Engineering,QA Engineer,Remote,2022-07-17,3.0,Average,97.55,23,18,98280
+EMP0539,Mark Jones,Male,33,Sales,Sales Manager,Onsite,2018-02-04,7.4,Excellent,69.39,8,2,57600
+EMP0540,Jonathan Brooks,Male,28,Finance,Financial Analyst,Onsite,2023-09-30,1.8,Below Average,78.93,1,0,131047
+EMP0541,Alexis Patel,Male,38,Sales,Sales Executive,Hybrid,2022-07-10,3.0,Excellent,86.19,28,12,70549
+EMP0542,Joseph Hill,Female,50,Finance,Accountant,Hybrid,2020-05-27,5.1,Excellent,81.07,5,0,34607
+EMP0543,Robert Craig,Female,52,IT Support,Network Admin,Remote,2018-07-29,7.0,Poor,81.62,8,17,88306
+EMP0544,Brent Hernandez,Female,58,Finance,Accountant,Remote,2018-10-16,6.7,Average,85.58,9,11,93131
+EMP0545,Dawn Gomez,Male,50,Marketing,Marketing Executive,Remote,2022-04-12,3.3,Good,70.39,9,0,30012
+EMP0546,Tyler Stevens,Female,40,Marketing,Marketing Executive,Remote,2019-08-31,5.9,Average,87.51,15,15,69270
+EMP0547,Courtney Sutton DVM,Female,60,HR,Recruiter,Onsite,2016-01-24,9.5,Average,81.93,6,13,145626
+EMP0548,James Tran,Female,37,Marketing,SEO Specialist,Onsite,2016-06-24,9.1,Average,85.84,26,12,58913
+EMP0549,Michele Miller,Female,37,Engineering,Software Engineer,Hybrid,2022-11-28,2.6,Average,96.4,25,8,67313
+EMP0550,Erin Madden,Female,34,IT Support,Network Admin,Onsite,2017-02-23,8.4,Excellent,71.58,20,14,110967
+EMP0551,Tamara Hall,Female,34,Sales,Sales Manager,Remote,2025-03-02,0.4,Excellent,61.99,17,0,54371
+EMP0552,Anthony Jones,Female,30,HR,Recruiter,Hybrid,2020-04-18,5.2,Good,60.33,2,4,31930
+EMP0553,Kristy Johnson,Female,48,Sales,Sales Executive,Remote,2020-11-16,4.7,Average,79.94,11,14,121348
+EMP0554,Daniel Thomas,Female,27,Operations,Operations Manager,Onsite,2022-04-20,3.2,Excellent,91.03,2,17,91623
+EMP0555,Elizabeth Elliott,Female,46,Finance,Accountant,Onsite,2025-03-02,0.4,Excellent,90.73,7,12,131086
+EMP0556,Jasmine Mosley,Male,34,Sales,Sales Executive,Remote,2021-03-03,4.4,Average,63.76,21,6,91974
+EMP0557,Patrick Gibbs,Female,32,Sales,Sales Manager,Hybrid,2016-11-10,8.7,Average,89.79,17,16,46009
+EMP0558,Valerie Brown,Female,34,Engineering,DevOps Engineer,Remote,2022-12-17,2.6,Below Average,94.55,6,3,60928
+EMP0559,Billy Jacobs,Female,22,IT Support,Network Admin,Onsite,2022-04-11,3.3,Average,83.39,12,7,31170
+EMP0560,Erin Walters,Male,45,HR,Recruiter,Onsite,2023-03-11,2.3,Good,80.0,21,19,74357
+EMP0561,Henry Pugh MD,Male,44,Operations,Operations Manager,Hybrid,2025-06-29,0.0,Excellent,81.45,3,4,93942
+EMP0562,Angelica Montgomery,Female,50,Finance,Financial Analyst,Hybrid,2019-09-20,5.8,Excellent,87.57,11,4,62859
+EMP0563,Angela Moore,Female,57,HR,Recruiter,Remote,2018-02-24,7.4,Average,79.6,18,5,101253
+EMP0564,Emily Rodriguez,Female,39,Engineering,DevOps Engineer,Hybrid,2015-08-13,9.9,Below Average,82.18,2,16,50319
+EMP0565,Jill Juarez,Female,56,Sales,Sales Manager,Remote,2017-04-07,8.3,Good,91.04,16,12,126161
+EMP0566,Cody Cole,Female,37,Finance,Accountant,Remote,2024-12-18,0.6,Average,86.33,17,12,54886
+EMP0567,Ashley Davis,Male,40,Marketing,SEO Specialist,Remote,2024-12-14,0.6,Good,72.88,3,16,116362
+EMP0568,Kyle Nguyen,Male,33,HR,HR Manager,Onsite,2022-01-29,3.5,Good,79.41,3,1,104843
+EMP0569,Jason Maxwell,Female,55,IT Support,Network Admin,Hybrid,2025-01-16,0.5,Average,70.24,11,7,109423
+EMP0570,Vanessa Armstrong,Male,35,IT Support,Support Specialist,Hybrid,2018-05-30,7.1,Good,95.59,2,14,134991
+EMP0571,Caroline Adams,Female,57,IT Support,Support Specialist,Hybrid,2020-02-03,5.4,Below Average,76.64,11,1,137956
+EMP0572,Arthur Hamilton MD,Male,26,Marketing,SEO Specialist,Remote,2023-10-06,1.8,Excellent,68.64,16,3,43267
+EMP0573,Heather Raymond,Female,34,IT Support,Support Specialist,Onsite,2023-12-17,1.6,Average,69.95,20,5,103193
+EMP0574,Christina Rodriguez,Male,58,IT Support,Network Admin,Remote,2020-09-16,4.8,Average,88.1,13,3,51864
+EMP0575,James Skinner,Female,54,Operations,Operations Manager,Remote,2021-12-27,3.5,Average,81.36,19,14,76179
+EMP0576,Erin Cook,Female,45,Engineering,QA Engineer,Remote,2017-11-03,7.7,Average,77.22,23,10,109745
+EMP0577,Larry Dominguez,Female,57,Finance,Accountant,Hybrid,2023-09-04,1.9,Good,98.47,14,12,30025
+EMP0578,Vincent Novak,Female,60,IT Support,Support Specialist,Onsite,2020-06-25,5.0,Average,99.74,9,0,69365
+EMP0579,Mackenzie Faulkner,Female,23,Finance,Accountant,Hybrid,2019-08-26,5.9,Below Average,96.76,16,17,104798
+EMP0580,Douglas Hartman,Male,24,Marketing,Marketing Executive,Remote,2021-09-26,3.8,Good,65.54,11,18,62749
+EMP0581,Justin Vargas,Female,27,Finance,Financial Analyst,Hybrid,2024-10-22,0.7,Good,96.72,23,2,124841
+EMP0582,Randall Johnson,Male,53,Engineering,DevOps Engineer,Hybrid,2023-05-19,2.2,Average,92.78,3,19,114181
+EMP0583,Christine Salinas,Female,27,Engineering,Software Engineer,Onsite,2016-09-13,8.8,Below Average,73.38,28,13,84594
+EMP0584,Rebecca Ortiz,Male,60,Operations,Operations Manager,Onsite,2024-01-08,1.5,Average,85.29,1,9,98731
+EMP0585,Eric King,Male,42,HR,Recruiter,Hybrid,2018-02-23,7.4,Average,66.13,21,12,88407
+EMP0586,Rachel Jones,Male,49,Operations,Operations Manager,Remote,2023-09-05,1.9,Average,65.92,10,2,92371
+EMP0587,Kimberly Mclean,Female,38,Marketing,Marketing Executive,Onsite,2022-08-23,2.9,Good,77.38,22,4,129881
+EMP0588,Rachel Ward,Male,53,Finance,Financial Analyst,Remote,2024-08-29,0.9,Average,67.84,19,16,62275
+EMP0589,Suzanne Rodriguez,Female,49,Finance,Accountant,Remote,2019-10-01,5.8,Average,83.04,3,13,85514
+EMP0590,Heather Holland,Male,42,Engineering,DevOps Engineer,Remote,2016-04-12,9.3,Average,60.97,9,5,75838
+EMP0591,Maria Lucas,Male,50,Marketing,SEO Specialist,Onsite,2021-03-02,4.4,Below Average,69.34,21,11,50446
+EMP0592,Jessica Smith,Male,25,Operations,Operations Manager,Onsite,2019-12-05,5.6,Below Average,97.07,27,9,31800
+EMP0593,Paul Grant,Male,41,Engineering,QA Engineer,Remote,2025-04-24,0.2,Good,73.28,23,17,57770
+EMP0594,James Ford,Female,31,Finance,Financial Analyst,Hybrid,2024-01-15,1.5,Average,60.74,18,16,35699
+EMP0595,Zachary Webb,Male,40,Engineering,Software Engineer,Onsite,2020-07-20,5.0,Average,84.72,1,14,115820
+EMP0596,Vernon Wilson,Female,39,HR,HR Manager,Hybrid,2017-12-08,7.6,Below Average,86.4,27,3,32500
+EMP0597,Grant Mueller,Female,36,Engineering,QA Engineer,Remote,2024-05-23,1.1,Average,88.39,28,10,93525
+EMP0598,Mr. Jeffrey Horton,Male,34,Operations,Operations Manager,Hybrid,2020-12-13,4.6,Poor,82.43,22,0,35210
+EMP0599,Andrew Page,Female,53,Finance,Financial Analyst,Remote,2015-11-29,9.6,Average,60.73,21,11,76580
+EMP0600,Maria Byrd,Male,54,IT Support,Network Admin,Remote,2018-04-28,7.2,Below Average,85.03,28,12,146706
+EMP0601,Natalie Black,Female,36,Operations,Operations Manager,Onsite,2024-11-30,0.6,Good,75.71,4,2,125668
+EMP0602,Justin Mullen,Female,37,Sales,Sales Executive,Hybrid,2019-06-21,6.1,Excellent,98.82,29,19,73160
+EMP0603,Lori Lopez,Male,30,Sales,Sales Executive,Hybrid,2022-11-17,2.7,Average,92.0,27,4,70501
+EMP0604,Omar Ware,Female,31,IT Support,Support Specialist,Hybrid,2023-03-05,2.4,Below Average,96.68,10,2,103051
+EMP0605,Jasmine Bush,Male,42,Marketing,Marketing Executive,Onsite,2019-01-10,6.5,Average,90.62,28,13,83903
+EMP0606,Michael Flynn,Female,31,Engineering,DevOps Engineer,Onsite,2025-05-07,0.2,Excellent,67.39,24,19,110864
+EMP0607,Shane Lopez,Male,60,Engineering,QA Engineer,Onsite,2021-01-26,4.5,Good,61.04,2,15,47575
+EMP0608,Brian Lambert,Female,33,Marketing,SEO Specialist,Remote,2023-11-08,1.7,Good,65.5,6,7,34224
+EMP0609,Margaret Harper,Female,48,Sales,Sales Executive,Onsite,2022-03-16,3.3,Average,99.53,24,6,38668
+EMP0610,Hannah Bruce,Female,42,Finance,Financial Analyst,Remote,2018-06-18,7.1,Below Average,77.1,24,1,109682
+EMP0611,Michele Evans,Female,47,IT Support,Network Admin,Hybrid,2016-12-19,8.6,Below Average,82.88,17,16,114068
+EMP0612,Emily Allen,Male,50,IT Support,Support Specialist,Remote,2017-07-07,8.0,Below Average,61.7,7,16,100499
+EMP0613,Michael Dixon,Female,55,Sales,Sales Executive,Hybrid,2022-08-22,2.9,Poor,67.59,14,12,145919
+EMP0614,Laura Henderson,Female,32,Engineering,DevOps Engineer,Remote,2023-10-22,1.7,Good,96.76,22,16,148446
+EMP0615,Melissa Brewer,Female,27,Finance,Financial Analyst,Hybrid,2018-06-22,7.1,Average,67.19,18,17,47734
+EMP0616,Katherine Taylor,Female,50,Sales,Sales Manager,Onsite,2020-11-16,4.7,Excellent,83.61,22,6,145677
+EMP0617,Lisa Glenn,Female,42,Sales,Sales Executive,Hybrid,2015-09-09,9.8,Average,88.46,5,3,41952
+EMP0618,Mr. James Hoffman,Female,27,HR,Recruiter,Hybrid,2023-12-12,1.6,Average,89.07,16,19,50958
+EMP0619,John Mckinney,Male,32,Sales,Sales Manager,Remote,2023-01-28,2.5,Average,86.38,4,5,143877
+EMP0620,Bradley Johnson DDS,Male,48,Finance,Accountant,Remote,2020-06-29,5.0,Good,90.75,14,9,112110
+EMP0621,Danny Roberts,Male,34,Finance,Accountant,Onsite,2023-04-22,2.2,Average,70.12,14,15,142120
+EMP0622,Patricia Simpson,Female,37,Sales,Sales Executive,Onsite,2024-03-20,1.3,Average,79.03,13,14,40407
+EMP0623,Brian Hampton,Male,57,Marketing,Marketing Executive,Remote,2021-10-07,3.8,Average,82.3,26,6,36411
+EMP0624,Nicole Wolf,Male,44,Finance,Accountant,Onsite,2023-01-13,2.5,Excellent,61.3,18,19,69117
+EMP0625,Wanda Garcia,Male,28,Engineering,Software Engineer,Remote,2019-09-27,5.8,Poor,66.45,9,19,116628
+EMP0626,Zachary Cole,Female,59,IT Support,Support Specialist,Remote,2021-06-15,4.1,Below Average,63.73,9,10,78309
+EMP0627,Angie Grimes,Female,57,Sales,Sales Executive,Onsite,2017-07-10,8.0,Good,65.38,22,8,73150
+EMP0628,Cynthia Cochran,Male,35,Marketing,SEO Specialist,Hybrid,2021-06-28,4.0,Excellent,82.85,20,16,41491
+EMP0629,Lisa Patterson,Female,60,Sales,Sales Manager,Remote,2017-11-23,7.6,Good,83.01,19,11,47001
+EMP0630,Robin Trujillo,Female,53,Marketing,SEO Specialist,Onsite,2025-03-23,0.3,Below Average,69.31,9,6,30207
+EMP0631,Douglas Ryan,Female,29,HR,HR Manager,Hybrid,2021-01-12,4.5,Below Average,91.98,13,13,35962
+EMP0632,Eileen Armstrong,Male,22,Engineering,DevOps Engineer,Hybrid,2024-04-11,1.3,Good,71.27,25,2,70340
+EMP0633,Miss Anna Estes,Female,22,Engineering,QA Engineer,Onsite,2022-07-12,3.0,Average,73.65,23,18,110739
+EMP0634,Wendy Camacho,Male,43,HR,HR Manager,Remote,2017-09-07,7.8,Below Average,79.16,15,1,114626
+EMP0635,Brandi Thomas,Male,51,Finance,Financial Analyst,Hybrid,2021-01-02,4.5,Below Average,78.5,26,13,127332
+EMP0636,Pam Lowe,Female,57,HR,Recruiter,Hybrid,2023-11-08,1.7,Excellent,83.1,10,11,38678
+EMP0637,Mark Burton,Male,43,Finance,Financial Analyst,Remote,2021-11-28,3.6,Average,93.7,18,19,81061
+EMP0638,Mark Beard,Female,42,Finance,Accountant,Hybrid,2017-02-09,8.4,Excellent,76.55,15,7,78704
+EMP0639,Paul Neal,Male,55,Sales,Sales Manager,Remote,2021-10-21,3.7,Excellent,74.97,1,6,149715
+EMP0640,John Perkins,Male,52,HR,Recruiter,Hybrid,2017-02-09,8.4,Excellent,73.6,15,16,70679
+EMP0641,Judy Beck,Male,28,Operations,Logistics Coordinator,Hybrid,2021-08-14,3.9,Average,65.31,23,1,90210
+EMP0642,Rebecca Sanders,Male,41,Sales,Sales Executive,Onsite,2022-11-01,2.7,Average,83.77,2,10,91194
+EMP0643,Kathleen Morris,Female,23,HR,HR Manager,Hybrid,2020-05-08,5.2,Average,85.55,6,10,56287
+EMP0644,Kenneth Knight,Female,56,Finance,Financial Analyst,Remote,2023-10-13,1.7,Average,86.84,8,4,50643
+EMP0645,Stephanie Farmer,Male,57,Engineering,Software Engineer,Hybrid,2016-04-22,9.2,Excellent,81.7,17,10,65527
+EMP0646,Richard Stevens,Male,32,Finance,Financial Analyst,Onsite,2017-08-21,7.9,Good,95.69,17,14,36648
+EMP0647,Brooke Bryant,Female,25,Finance,Accountant,Onsite,2022-10-21,2.7,Good,63.44,12,5,122363
+EMP0648,Michael Anderson,Female,41,Marketing,SEO Specialist,Remote,2020-08-29,4.9,Below Average,88.52,21,17,40295
+EMP0649,Timothy Hill,Male,27,Operations,Logistics Coordinator,Hybrid,2021-08-28,3.9,Good,78.22,21,20,123089
+EMP0650,Jacob Mckee,Female,36,Operations,Logistics Coordinator,Onsite,2018-05-05,7.2,Excellent,95.83,8,11,81390
+EMP0651,Mario Barber,Female,51,Finance,Financial Analyst,Remote,2019-07-05,6.0,Excellent,79.01,11,15,90455
+EMP0652,Brandon Davis,Female,44,Operations,Operations Manager,Hybrid,2019-02-27,6.4,Average,80.32,12,3,72712
+EMP0653,Casey Perez,Female,56,Marketing,Marketing Executive,Remote,2023-02-05,2.4,Good,76.54,19,7,101820
+EMP0654,Michael Montoya,Female,26,Finance,Financial Analyst,Remote,2022-09-17,2.8,Good,87.76,13,13,104345
+EMP0655,Karen Perez,Male,33,Operations,Logistics Coordinator,Hybrid,2017-01-17,8.5,Average,89.57,22,18,139674
+EMP0656,Ashley Edwards,Female,42,Sales,Sales Executive,Hybrid,2020-08-13,4.9,Excellent,77.81,9,12,39123
+EMP0657,Raymond Mullins,Female,42,Marketing,Marketing Executive,Remote,2017-10-16,7.7,Average,62.46,6,4,146295
+EMP0658,Megan Jones,Male,31,Marketing,Marketing Executive,Remote,2025-02-09,0.4,Average,75.6,18,14,55646
+EMP0659,Matthew Alexander,Female,58,Finance,Financial Analyst,Hybrid,2019-02-24,6.4,Good,97.73,13,11,41703
+EMP0660,Brittany Jenkins,Female,30,Marketing,Marketing Executive,Remote,2023-01-19,2.5,Excellent,96.04,30,1,30110
+EMP0661,Angelica Garcia,Male,40,IT Support,Network Admin,Onsite,2017-08-15,7.9,Good,88.09,12,20,71697
+EMP0662,Janet Richmond,Female,46,IT Support,Network Admin,Remote,2020-11-16,4.7,Average,86.5,15,4,54671
+EMP0663,Danielle Newman,Female,48,Marketing,SEO Specialist,Onsite,2019-10-01,5.8,Good,94.91,4,4,31520
+EMP0664,Lindsay Lawson,Male,53,HR,HR Manager,Hybrid,2015-12-25,9.6,Good,99.61,2,4,114180
+EMP0665,Mary Turner,Female,60,Operations,Logistics Coordinator,Remote,2024-05-02,1.2,Average,78.18,13,17,137488
+EMP0666,Chelsea Myers,Female,36,Sales,Sales Manager,Onsite,2016-06-15,9.1,Good,60.3,15,7,123340
+EMP0667,Rebecca Allen,Female,56,Marketing,SEO Specialist,Hybrid,2022-02-02,3.4,Good,99.13,18,15,122390
+EMP0668,Jonathan Wheeler,Female,27,Engineering,Software Engineer,Onsite,2024-07-06,1.0,Average,81.06,27,8,90940
+EMP0669,Alexandria Ward,Male,37,Marketing,Marketing Executive,Remote,2020-11-28,4.6,Average,86.55,21,2,119662
+EMP0670,Scott Carroll,Male,43,IT Support,Network Admin,Hybrid,2021-09-28,3.8,Average,78.75,16,15,105230
+EMP0671,Carrie Ruiz,Female,44,IT Support,Network Admin,Remote,2016-10-07,8.8,Good,61.41,29,19,128228
+EMP0672,Austin Baker,Female,25,Engineering,QA Engineer,Hybrid,2016-03-15,9.3,Good,66.76,1,9,136023
+EMP0673,Tiffany Sanders,Female,53,IT Support,Support Specialist,Onsite,2020-05-26,5.1,Excellent,63.07,25,8,63036
+EMP0674,Kathryn Perry,Female,38,Finance,Financial Analyst,Onsite,2022-05-15,3.2,Average,84.15,29,18,126857
+EMP0675,Joshua Jensen,Female,33,Finance,Financial Analyst,Remote,2020-03-31,5.3,Average,69.45,5,16,142985
+EMP0676,Bob Mccall,Male,31,HR,Recruiter,Hybrid,2018-03-03,7.4,Below Average,66.17,15,13,130973
+EMP0677,Jeanette Walters,Female,32,Sales,Sales Executive,Onsite,2016-08-25,8.9,Average,93.67,1,20,64654
+EMP0678,Jeffrey Ashley,Male,32,Operations,Operations Manager,Remote,2019-08-02,5.9,Good,72.05,23,17,60626
+EMP0679,Brandon Hamilton,Female,38,Sales,Sales Manager,Onsite,2023-03-29,2.3,Average,77.39,9,14,80070
+EMP0680,Amy Wade,Male,28,IT Support,Network Admin,Hybrid,2018-07-07,7.0,Average,98.25,13,19,115467
+EMP0681,Michael Miles,Female,39,Operations,Logistics Coordinator,Remote,2018-04-25,7.2,Below Average,70.21,18,12,90438
+EMP0682,Gregory Holmes PhD,Male,55,Operations,Operations Manager,Remote,2019-12-08,5.6,Average,99.73,10,17,31386
+EMP0683,Cameron Norman,Male,22,IT Support,Support Specialist,Remote,2020-02-06,5.4,Excellent,64.16,14,11,58759
+EMP0684,Bailey Yoder,Female,34,IT Support,Network Admin,Onsite,2021-03-23,4.3,Excellent,63.68,30,19,116062
+EMP0685,Denise Brown,Male,29,Operations,Operations Manager,Onsite,2025-05-03,0.2,Below Average,65.2,21,20,104195
+EMP0686,Kathleen Dixon,Male,33,Operations,Operations Manager,Remote,2016-06-20,9.1,Good,86.42,2,20,89433
+EMP0687,Mr. Jacob Scott Jr.,Female,38,Engineering,DevOps Engineer,Onsite,2025-04-16,0.2,Average,71.09,1,12,80933
+EMP0688,Ashley Yang,Female,38,Engineering,Software Engineer,Onsite,2015-07-27,10.0,Good,79.67,29,6,109993
+EMP0689,Scott Sanchez,Female,28,Sales,Sales Executive,Onsite,2023-07-21,2.0,Average,77.25,19,20,43926
+EMP0690,Thomas White,Male,24,Sales,Sales Manager,Onsite,2016-02-16,9.4,Excellent,89.1,24,14,32459
+EMP0691,Suzanne Yang,Male,24,Sales,Sales Executive,Hybrid,2022-08-29,2.9,Good,66.06,10,12,105319
+EMP0692,David Moon,Female,49,HR,Recruiter,Remote,2020-12-20,4.6,Below Average,91.24,25,2,100795
+EMP0693,Blake Watson,Female,52,Finance,Accountant,Onsite,2024-01-25,1.5,Average,97.4,11,10,119369
+EMP0694,Amy Walker,Male,27,Engineering,DevOps Engineer,Remote,2024-04-19,1.2,Average,98.44,2,14,129674
+EMP0695,Dr. Andrea Marshall,Male,33,Operations,Logistics Coordinator,Hybrid,2020-04-30,5.2,Excellent,75.37,6,9,121210
+EMP0696,Emily Miller,Female,53,Sales,Sales Executive,Onsite,2023-04-19,2.2,Below Average,77.52,6,4,34679
+EMP0697,Curtis Elliott,Male,53,Finance,Accountant,Remote,2020-09-11,4.8,Excellent,81.62,9,15,99984
+EMP0698,Dana Richardson,Male,24,Operations,Logistics Coordinator,Remote,2023-12-02,1.6,Excellent,91.51,1,12,45491
+EMP0699,Dr. Morgan Payne PhD,Male,59,Finance,Financial Analyst,Onsite,2018-02-01,7.4,Below Average,61.48,4,15,115699
+EMP0700,Jason Hall,Male,37,HR,Recruiter,Hybrid,2021-06-02,4.1,Average,60.57,20,1,148575
+EMP0701,Melissa Smith,Female,32,Engineering,Software Engineer,Hybrid,2021-03-23,4.3,Excellent,92.7,3,15,107984
+EMP0702,Matthew Sweeney,Male,34,Operations,Operations Manager,Remote,2020-10-03,4.8,Good,93.44,23,12,72498
+EMP0703,Joseph Allen,Female,35,HR,HR Manager,Onsite,2023-11-24,1.6,Average,73.42,3,8,48512
+EMP0704,Valerie Thomas,Male,45,Operations,Logistics Coordinator,Hybrid,2020-04-14,5.2,Excellent,69.75,18,1,47481
+EMP0705,Thomas Merritt,Male,23,HR,Recruiter,Remote,2024-05-14,1.2,Excellent,60.29,29,2,122633
+EMP0706,Steven Ellis,Female,52,IT Support,Network Admin,Hybrid,2016-12-20,8.6,Excellent,65.72,8,16,89037
+EMP0707,Kathy Walsh,Male,24,Sales,Sales Executive,Hybrid,2022-03-27,3.3,Excellent,80.0,30,2,112207
+EMP0708,Keith Graham,Female,48,Operations,Logistics Coordinator,Onsite,2017-10-01,7.8,Average,67.68,16,3,111123
+EMP0709,Dean Edwards,Male,51,Engineering,QA Engineer,Hybrid,2022-03-18,3.3,Average,71.06,6,3,134413
+EMP0710,Nancy Stewart,Female,33,Finance,Financial Analyst,Onsite,2020-02-25,5.4,Average,61.72,20,11,67363
+EMP0711,Tony Taylor,Female,43,Finance,Financial Analyst,Hybrid,2025-06-22,0.1,Below Average,90.34,1,3,127047
+EMP0712,Brian Cole,Male,23,HR,HR Manager,Remote,2020-11-13,4.7,Average,62.83,7,14,107687
+EMP0713,Joshua Oconnell,Female,34,Marketing,SEO Specialist,Hybrid,2019-01-22,6.5,Average,73.03,24,3,72746
+EMP0714,John Phelps,Male,48,Finance,Accountant,Onsite,2017-01-23,8.5,Good,68.83,15,18,93492
+EMP0715,Michael Mckenzie,Male,35,HR,Recruiter,Hybrid,2016-03-18,9.3,Good,75.49,4,14,124348
+EMP0716,Scott Hernandez,Female,34,Finance,Financial Analyst,Remote,2019-10-01,5.8,Excellent,87.69,1,8,47891
+EMP0717,Jennifer Williams,Female,48,HR,Recruiter,Onsite,2020-08-10,4.9,Average,68.79,9,19,50550
+EMP0718,William Johnson,Male,27,Operations,Operations Manager,Remote,2022-05-28,3.1,Below Average,79.57,6,18,92061
+EMP0719,Kristi Pierce,Female,22,Operations,Logistics Coordinator,Hybrid,2017-02-19,8.4,Good,94.9,7,10,86917
+EMP0720,Robert Taylor,Male,58,Marketing,Marketing Executive,Onsite,2015-09-24,9.8,Good,61.77,15,16,34406
+EMP0721,Richard Walker,Female,28,Sales,Sales Manager,Remote,2018-11-24,6.6,Good,63.32,24,0,120853
+EMP0722,Jacqueline Mccoy,Male,30,IT Support,Network Admin,Remote,2016-12-15,8.6,Good,85.91,2,0,92886
+EMP0723,Deanna Hess,Male,51,IT Support,Network Admin,Hybrid,2015-11-24,9.6,Average,60.98,14,14,131165
+EMP0724,Christina Brewer PhD,Male,45,Finance,Financial Analyst,Hybrid,2017-02-02,8.4,Good,85.34,27,20,39266
+EMP0725,Sandra Rivera,Male,40,Sales,Sales Manager,Remote,2016-04-02,9.3,Average,87.92,19,17,105396
+EMP0726,Amber Glass,Male,43,Operations,Operations Manager,Hybrid,2022-11-23,2.6,Below Average,80.59,29,11,146389
+EMP0727,Jennifer Johnson,Female,45,HR,HR Manager,Remote,2022-10-14,2.7,Average,74.62,5,20,103241
+EMP0728,Daniel Lopez,Male,30,IT Support,Support Specialist,Remote,2020-04-14,5.2,Good,64.54,15,18,144180
+EMP0729,Charles Mendez,Male,42,IT Support,Support Specialist,Remote,2019-09-16,5.8,Below Average,80.14,13,8,37138
+EMP0730,Kathleen Andrade,Female,50,HR,Recruiter,Remote,2023-09-04,1.9,Average,93.18,15,17,118907
+EMP0731,Douglas Taylor,Female,45,Operations,Logistics Coordinator,Hybrid,2018-12-02,6.6,Below Average,92.35,30,2,54687
+EMP0732,Rebecca Wright,Male,47,Sales,Sales Executive,Onsite,2024-10-10,0.8,Good,98.27,3,5,66168
+EMP0733,Virginia Casey,Female,31,HR,HR Manager,Onsite,2021-08-20,3.9,Average,85.09,9,13,119443
+EMP0734,Richard Cooper,Female,44,Marketing,Marketing Executive,Remote,2025-02-23,0.4,Good,85.79,9,6,38250
+EMP0735,Jasmine White,Female,48,HR,HR Manager,Hybrid,2020-12-13,4.6,Good,85.84,10,15,107772
+EMP0736,Alyssa Cochran,Female,41,IT Support,Network Admin,Hybrid,2020-04-21,5.2,Excellent,91.57,5,8,59724
+EMP0737,William Moreno,Female,25,Sales,Sales Manager,Onsite,2025-06-17,0.1,Good,78.24,5,19,51075
+EMP0738,Dr. Ariel Sandoval MD,Male,33,IT Support,Network Admin,Hybrid,2016-06-23,9.1,Average,86.65,4,5,61182
+EMP0739,Theresa Johnston,Female,58,HR,HR Manager,Onsite,2022-02-18,3.4,Good,74.79,6,17,122685
+EMP0740,Ryan Bruce,Female,31,HR,Recruiter,Remote,2018-07-10,7.0,Good,99.02,17,9,45923
+EMP0741,Evan Rojas,Female,31,HR,Recruiter,Remote,2021-08-18,3.9,Below Average,66.24,23,17,96507
+EMP0742,Alyssa Haynes,Female,52,Engineering,QA Engineer,Remote,2025-03-08,0.3,Poor,90.17,18,4,134802
+EMP0743,Kristine Lopez,Female,29,Marketing,SEO Specialist,Hybrid,2023-11-25,1.6,Good,61.6,21,17,45319
+EMP0744,Casey Johnson,Female,36,Engineering,Software Engineer,Remote,2016-06-25,9.1,Good,73.05,19,20,55578
+EMP0745,Daniel Fox,Female,34,Marketing,Marketing Executive,Onsite,2015-07-16,10.0,Excellent,93.98,21,2,97081
+EMP0746,Lucas Drake,Female,42,Sales,Sales Executive,Hybrid,2021-04-28,4.2,Average,97.74,29,11,82108
+EMP0747,Tamara Richard,Female,46,Finance,Financial Analyst,Remote,2021-01-11,4.5,Excellent,73.8,9,14,144596
+EMP0748,Charles Bush,Male,50,Marketing,Marketing Executive,Hybrid,2017-12-08,7.6,Poor,92.15,9,5,135601
+EMP0749,Sarah Valencia,Female,30,IT Support,Network Admin,Hybrid,2016-10-04,8.8,Average,65.75,9,15,143708
+EMP0750,Tom Foster,Male,59,Marketing,SEO Specialist,Remote,2017-03-30,8.3,Excellent,76.38,29,8,84331
+EMP0751,Frank Daugherty,Male,34,Finance,Financial Analyst,Onsite,2022-12-16,2.6,Below Average,71.58,15,1,137845
+EMP0752,Toni Banks,Female,53,Operations,Logistics Coordinator,Hybrid,2018-06-28,7.0,Average,68.98,25,0,50188
+EMP0753,Kristina Preston,Female,29,Engineering,DevOps Engineer,Hybrid,2021-08-06,3.9,Average,71.51,5,15,148855
+EMP0754,Kevin Thompson,Male,29,IT Support,Support Specialist,Remote,2020-09-29,4.8,Good,98.83,19,11,106161
+EMP0755,Elizabeth Thompson,Female,52,Sales,Sales Manager,Hybrid,2015-07-23,10.0,Below Average,74.93,23,18,32299
+EMP0756,Tiffany Myers,Male,59,Operations,Logistics Coordinator,Onsite,2025-03-07,0.3,Excellent,78.44,22,4,76843
+EMP0757,Lance Mccall,Female,45,Finance,Accountant,Remote,2019-04-14,6.2,Average,98.21,1,9,68228
+EMP0758,Ashley Crawford,Male,33,Marketing,Marketing Executive,Onsite,2021-02-27,4.4,Average,66.69,10,10,138373
+EMP0759,Cynthia Haas,Female,45,Operations,Logistics Coordinator,Onsite,2018-05-20,7.2,Average,74.07,4,0,47950
+EMP0760,Tracey Underwood,Female,53,Marketing,SEO Specialist,Remote,2021-03-28,4.3,Good,96.43,3,6,50257
+EMP0761,Derek Wright,Male,57,Marketing,Marketing Executive,Hybrid,2016-09-05,8.9,Average,98.1,27,17,123394
+EMP0762,Richard Le,Female,51,Marketing,Marketing Executive,Onsite,2016-05-06,9.2,Excellent,65.25,0,15,75640
+EMP0763,Nicholas Costa,Female,30,Engineering,QA Engineer,Remote,2022-07-27,3.0,Below Average,83.91,24,10,52571
+EMP0764,James Payne Jr.,Male,29,IT Support,Network Admin,Onsite,2023-09-07,1.8,Excellent,87.77,22,7,70295
+EMP0765,Laura Chang,Male,27,Finance,Accountant,Remote,2019-05-13,6.2,Average,91.36,2,0,131540
+EMP0766,Benjamin Singleton,Male,34,Sales,Sales Manager,Onsite,2020-07-17,5.0,Excellent,86.39,18,1,91483
+EMP0767,Dean Garcia,Male,26,HR,Recruiter,Remote,2021-05-04,4.2,Average,90.18,25,3,108878
+EMP0768,James Dennis,Male,44,Finance,Accountant,Onsite,2024-10-31,0.7,Excellent,93.83,30,8,105989
+EMP0769,Vanessa Morgan,Male,54,Engineering,DevOps Engineer,Hybrid,2023-09-27,1.8,Average,80.2,2,3,137424
+EMP0770,Jessica Valdez,Male,34,Marketing,Marketing Executive,Remote,2022-11-30,2.6,Excellent,90.16,0,3,58051
+EMP0771,Brian Harris,Female,59,Marketing,SEO Specialist,Onsite,2018-10-04,6.8,Good,98.31,5,11,79756
+EMP0772,Julian Frost,Male,48,Sales,Sales Executive,Onsite,2024-09-18,0.8,Average,72.57,14,3,98121
+EMP0773,Douglas Young,Female,40,Finance,Financial Analyst,Hybrid,2016-05-15,9.2,Average,63.29,15,3,80434
+EMP0774,Joshua Henry,Female,50,Engineering,DevOps Engineer,Onsite,2016-06-14,9.1,Average,71.62,27,13,54744
+EMP0775,Jeffrey Phillips,Female,45,Operations,Operations Manager,Onsite,2023-09-12,1.8,Excellent,86.97,21,3,81952
+EMP0776,Alexander Jackson,Male,31,Sales,Sales Executive,Remote,2020-06-28,5.0,Good,83.62,3,5,38481
+EMP0777,Kara Wilson,Female,34,Engineering,Software Engineer,Hybrid,2022-04-15,3.2,Below Average,76.17,7,13,125053
+EMP0778,Steven Baker,Female,47,Sales,Sales Manager,Remote,2024-10-13,0.7,Good,84.13,12,15,97032
+EMP0779,Jacob James,Female,28,Engineering,Software Engineer,Onsite,2018-09-13,6.8,Good,79.89,20,4,33895
+EMP0780,Dennis Marshall,Male,53,HR,HR Manager,Hybrid,2019-05-17,6.2,Excellent,67.16,19,10,50019
+EMP0781,Kristy Hernandez,Male,26,Engineering,QA Engineer,Hybrid,2017-03-03,8.4,Average,90.7,25,14,56467
+EMP0782,Gregg Weaver,Female,53,Engineering,QA Engineer,Hybrid,2019-05-25,6.1,Good,73.74,27,17,101646
+EMP0783,Sara Cardenas,Female,29,HR,HR Manager,Remote,2022-08-25,2.9,Good,94.11,14,14,34716
+EMP0784,Melissa Mayer,Female,32,HR,HR Manager,Remote,2025-04-08,0.3,Good,72.5,12,15,130140
+EMP0785,Karen Miller,Female,52,HR,Recruiter,Hybrid,2016-02-12,9.4,Below Average,80.27,12,8,94840
+EMP0786,Stephanie Mcbride,Female,40,Marketing,SEO Specialist,Remote,2018-01-13,7.5,Excellent,83.62,4,11,75727
+EMP0787,Peter Thompson,Female,46,Operations,Operations Manager,Onsite,2018-05-15,7.2,Good,99.68,13,11,37398
+EMP0788,Rhonda Martinez,Male,37,IT Support,Support Specialist,Hybrid,2022-09-23,2.8,Good,63.4,22,2,143893
+EMP0789,Michael Harris,Female,32,Engineering,Software Engineer,Onsite,2018-01-15,7.5,Average,61.5,21,13,104455
+EMP0790,Deanna Bartlett,Female,23,Marketing,SEO Specialist,Hybrid,2016-08-31,8.9,Good,60.89,10,12,104757
+EMP0791,Justin Arnold,Male,53,Sales,Sales Manager,Onsite,2020-03-23,5.3,Average,68.24,15,16,136359
+EMP0792,Sylvia Smith,Male,41,Operations,Logistics Coordinator,Remote,2025-07-10,0.0,Poor,68.07,20,2,140150
+EMP0793,Jennifer Perry,Female,38,Operations,Operations Manager,Onsite,2018-01-17,7.5,Good,82.94,25,7,111863
+EMP0794,Lauren Hanna,Male,59,IT Support,Support Specialist,Remote,2017-03-25,8.3,Good,82.66,16,15,85981
+EMP0795,Kristine Garcia,Male,41,Finance,Financial Analyst,Hybrid,2020-05-23,5.1,Below Average,77.32,17,10,56224
+EMP0796,Sheryl Humphrey,Female,54,Sales,Sales Manager,Remote,2020-01-08,5.5,Average,81.9,28,0,112292
+EMP0797,John Lynch,Female,35,IT Support,Support Specialist,Hybrid,2016-02-29,9.4,Poor,89.69,14,8,113614
+EMP0798,Jamie Montgomery,Male,55,Marketing,SEO Specialist,Onsite,2022-05-12,3.2,Good,65.91,4,9,140640
+EMP0799,Steve Rivera,Female,26,Sales,Sales Manager,Hybrid,2019-07-27,6.0,Good,76.5,26,9,114678
+EMP0800,John Adams,Male,47,Finance,Financial Analyst,Onsite,2021-11-11,3.7,Excellent,67.68,7,9,90838
+EMP0801,Robert Turner,Female,24,Sales,Sales Manager,Onsite,2020-04-18,5.2,Excellent,65.46,8,8,116333
+EMP0802,Shannon Cohen,Male,53,Marketing,Marketing Executive,Onsite,2019-05-28,6.1,Excellent,95.86,10,19,69056
+EMP0803,William Ramos,Female,45,Operations,Operations Manager,Hybrid,2020-12-25,4.5,Average,63.61,30,4,60938
+EMP0804,Jason Brewer,Female,53,HR,HR Manager,Onsite,2018-09-21,6.8,Good,64.89,25,10,73160
+EMP0805,Thomas Russell,Male,49,Operations,Logistics Coordinator,Onsite,2023-10-08,1.8,Excellent,67.01,8,14,83526
+EMP0806,Sharon Nicholson,Male,53,Engineering,QA Engineer,Hybrid,2024-04-16,1.2,Good,97.95,10,17,85545
+EMP0807,Ana Mckinney,Female,31,Sales,Sales Executive,Remote,2022-05-22,3.1,Good,74.71,9,0,114593
+EMP0808,Samuel Suarez,Male,37,Marketing,Marketing Executive,Remote,2016-01-07,9.5,Average,72.37,30,11,148378
+EMP0809,Shaun Gonzalez,Male,50,Operations,Operations Manager,Remote,2016-07-04,9.0,Excellent,98.43,29,8,69438
+EMP0810,Jesus Hull,Female,35,HR,HR Manager,Onsite,2018-11-30,6.6,Below Average,85.25,28,20,83253
+EMP0811,Rodney Wagner,Female,27,Operations,Operations Manager,Remote,2017-08-19,7.9,Good,76.52,26,10,124029
+EMP0812,Dana Burns,Male,38,Sales,Sales Executive,Hybrid,2023-02-11,2.4,Excellent,76.83,23,17,126703
+EMP0813,Seth Matthews,Male,25,Engineering,DevOps Engineer,Hybrid,2021-06-23,4.1,Average,85.21,25,20,47837
+EMP0814,Ryan Green,Male,41,HR,Recruiter,Remote,2017-01-23,8.5,Average,64.43,7,16,123528
+EMP0815,James Martin,Female,42,Operations,Operations Manager,Remote,2025-04-05,0.3,Good,89.41,8,5,120107
+EMP0816,Cindy Walker,Female,34,Marketing,SEO Specialist,Onsite,2019-05-10,6.2,Good,67.28,28,12,139403
+EMP0817,Debra Ortiz,Male,23,Marketing,Marketing Executive,Hybrid,2015-11-13,9.7,Average,85.07,29,2,90610
+EMP0818,Tracy Fleming,Male,25,Finance,Financial Analyst,Remote,2023-08-04,1.9,Average,84.02,4,2,78224
+EMP0819,Maria Burke,Male,55,Finance,Accountant,Remote,2015-09-02,9.9,Average,97.13,26,15,45533
+EMP0820,Lee Hahn,Male,39,Finance,Accountant,Remote,2020-03-18,5.3,Average,75.28,13,6,108654
+EMP0821,James Bailey,Male,48,Finance,Financial Analyst,Onsite,2019-10-24,5.7,Good,65.84,9,8,60865
+EMP0822,Eric Meyer,Male,45,Marketing,SEO Specialist,Hybrid,2022-04-13,3.2,Average,78.33,0,15,47459
+EMP0823,Adrienne Key,Female,35,Operations,Logistics Coordinator,Hybrid,2021-11-22,3.6,Good,76.93,19,8,39575
+EMP0824,Linda Campbell,Male,43,HR,HR Manager,Onsite,2017-05-13,8.2,Good,74.17,19,19,123004
+EMP0825,Mr. Donald Nguyen,Male,38,IT Support,Support Specialist,Hybrid,2020-03-27,5.3,Average,72.1,12,11,47332
+EMP0826,Michael Stafford,Male,38,Marketing,Marketing Executive,Onsite,2020-08-10,4.9,Average,97.21,28,14,47290
+EMP0827,Joseph Allen,Female,31,HR,Recruiter,Remote,2016-06-28,9.0,Excellent,61.77,4,15,144252
+EMP0828,Rebekah Greene,Female,49,Operations,Logistics Coordinator,Remote,2020-12-17,4.6,Below Average,70.53,26,8,97760
+EMP0829,Mikayla Rios,Male,42,Engineering,DevOps Engineer,Hybrid,2020-07-21,5.0,Poor,90.55,4,17,141808
+EMP0830,Jason Price,Male,34,IT Support,Network Admin,Onsite,2016-02-16,9.4,Excellent,67.33,15,8,51437
+EMP0831,Wendy Cabrera,Female,29,IT Support,Network Admin,Remote,2021-05-13,4.2,Excellent,74.26,22,17,93596
+EMP0832,Courtney Nichols,Male,31,Sales,Sales Manager,Onsite,2023-08-15,1.9,Good,68.15,9,5,139439
+EMP0833,Megan Romero,Male,59,Finance,Financial Analyst,Onsite,2018-06-02,7.1,Average,82.83,13,2,62264
+EMP0834,Sherri White,Male,43,Operations,Logistics Coordinator,Onsite,2017-03-09,8.3,Good,99.25,3,12,78963
+EMP0835,Patrick Hardy,Female,31,Marketing,Marketing Executive,Onsite,2025-01-13,0.5,Excellent,93.23,21,15,89513
+EMP0836,Catherine Frazier,Male,43,IT Support,Network Admin,Onsite,2021-03-27,4.3,Average,98.04,10,18,46950
+EMP0837,Courtney Walker,Female,42,Finance,Accountant,Onsite,2020-10-01,4.8,Average,81.89,19,12,42130
+EMP0838,Stephen Watson,Male,37,Sales,Sales Manager,Remote,2025-06-27,0.0,Excellent,94.09,5,12,132169
+EMP0839,Samuel Ruiz,Male,29,Sales,Sales Manager,Remote,2025-06-15,0.1,Good,77.29,25,9,148454
+EMP0840,Lisa Kennedy,Female,28,IT Support,Support Specialist,Remote,2018-11-01,6.7,Average,79.58,28,12,92447
+EMP0841,Sharon James,Female,27,Engineering,QA Engineer,Remote,2020-08-07,4.9,Below Average,84.55,13,20,85838
+EMP0842,Seth Hernandez,Female,51,HR,HR Manager,Hybrid,2018-12-07,6.6,Good,87.45,4,15,99111
+EMP0843,William Orozco,Female,51,IT Support,Support Specialist,Remote,2023-04-24,2.2,Excellent,92.06,9,4,46749
+EMP0844,Scott White,Male,55,IT Support,Network Admin,Remote,2016-11-25,8.6,Good,61.91,2,1,97294
+EMP0845,Mr. Christopher Walters,Female,28,HR,Recruiter,Remote,2015-08-10,9.9,Average,82.74,8,11,63405
+EMP0846,Daniel Ayala,Male,29,Marketing,Marketing Executive,Hybrid,2025-04-30,0.2,Average,67.18,5,12,35932
+EMP0847,Katherine Gallagher,Female,42,HR,Recruiter,Hybrid,2017-01-09,8.5,Average,90.29,14,19,135884
+EMP0848,Jeffrey Jordan,Male,35,Engineering,DevOps Engineer,Onsite,2022-10-28,2.7,Excellent,99.29,8,3,86858
+EMP0849,Janet Johnson,Male,47,Marketing,Marketing Executive,Onsite,2018-12-02,6.6,Excellent,86.23,14,12,143872
+EMP0850,Tiffany Mcclain,Female,45,IT Support,Network Admin,Hybrid,2024-07-23,1.0,Average,87.61,12,9,41486
+EMP0851,Michael Sims,Male,34,Finance,Accountant,Onsite,2019-10-05,5.8,Below Average,87.84,6,0,57424
+EMP0852,Shawn Collins,Male,49,Sales,Sales Executive,Hybrid,2017-04-10,8.3,Below Average,81.54,2,9,130888
+EMP0853,Kevin Jackson,Female,49,Sales,Sales Executive,Onsite,2016-04-21,9.2,Excellent,96.1,23,14,93576
+EMP0854,Earl Luna,Female,59,Sales,Sales Executive,Onsite,2024-06-10,1.1,Good,82.78,26,12,36674
+EMP0855,Stephen Cowan,Male,49,Engineering,Software Engineer,Remote,2021-05-10,4.2,Below Average,89.48,19,17,68112
+EMP0856,Katherine Christensen MD,Female,53,HR,Recruiter,Hybrid,2022-05-22,3.1,Average,84.46,21,15,60396
+EMP0857,Danny Mercer,Male,49,IT Support,Support Specialist,Hybrid,2019-02-13,6.4,Good,62.54,28,20,84675
+EMP0858,Leah Jackson,Female,44,Sales,Sales Executive,Remote,2021-10-05,3.8,Average,60.83,9,6,91504
+EMP0859,Rebecca Brooks,Male,54,Engineering,DevOps Engineer,Onsite,2019-11-17,5.7,Average,87.4,29,19,141863
+EMP0860,Lisa Wheeler,Male,40,Operations,Logistics Coordinator,Hybrid,2016-05-05,9.2,Average,98.39,26,20,126283
+EMP0861,Martha Smith,Male,35,Engineering,DevOps Engineer,Remote,2017-06-30,8.0,Average,63.45,15,4,52713
+EMP0862,James Kelley,Female,28,Finance,Accountant,Remote,2023-08-06,1.9,Below Average,79.75,7,6,102984
+EMP0863,Christine Jennings,Female,38,HR,HR Manager,Remote,2015-09-07,9.9,Average,66.99,27,16,34190
+EMP0864,Matthew Bates,Female,49,Operations,Operations Manager,Onsite,2020-02-13,5.4,Average,64.83,7,15,63793
+EMP0865,Mercedes Barnes,Male,57,Engineering,DevOps Engineer,Remote,2017-04-23,8.2,Below Average,94.14,27,16,109205
+EMP0866,Lisa Campbell,Male,50,IT Support,Support Specialist,Remote,2017-05-02,8.2,Poor,90.23,3,19,109908
+EMP0867,Mr. Richard Decker DVM,Male,54,Operations,Operations Manager,Onsite,2021-08-13,3.9,Excellent,64.72,6,11,50582
+EMP0868,Elizabeth Williams,Female,54,IT Support,Network Admin,Remote,2023-12-21,1.6,Average,63.97,20,11,73857
+EMP0869,Melissa Castillo,Male,34,Operations,Operations Manager,Remote,2019-07-08,6.0,Poor,90.77,0,7,139420
+EMP0870,Michael Meadows,Female,40,Operations,Logistics Coordinator,Hybrid,2025-04-17,0.2,Excellent,70.64,22,13,77270
+EMP0871,Brittany Davis,Male,55,IT Support,Support Specialist,Remote,2024-03-25,1.3,Average,65.52,13,13,83648
+EMP0872,Nathaniel Conway,Male,50,Sales,Sales Manager,Onsite,2019-06-17,6.1,Average,88.71,16,2,41112
+EMP0873,William Baker,Female,32,Engineering,DevOps Engineer,Remote,2016-05-18,9.2,Excellent,90.37,21,20,49785
+EMP0874,Christopher Williams,Female,48,Marketing,Marketing Executive,Remote,2020-06-20,5.1,Below Average,88.03,27,9,124575
+EMP0875,Michael Simmons,Female,22,IT Support,Network Admin,Remote,2017-07-01,8.0,Below Average,84.42,4,12,88482
+EMP0876,Peter Williams,Female,44,IT Support,Support Specialist,Hybrid,2017-11-17,7.7,Good,67.89,9,2,34845
+EMP0877,Carolyn Howard,Female,30,Marketing,SEO Specialist,Hybrid,2022-12-21,2.6,Poor,71.36,2,16,102323
+EMP0878,Debra Quinn,Female,32,Engineering,QA Engineer,Onsite,2021-11-12,3.7,Excellent,91.86,18,8,61632
+EMP0879,Catherine Morales,Female,54,Operations,Logistics Coordinator,Onsite,2023-04-17,2.2,Average,93.66,8,20,96518
+EMP0880,James Jefferson,Male,29,Engineering,Software Engineer,Remote,2022-09-13,2.8,Good,89.47,14,10,60945
+EMP0881,Rebecca Wilson,Female,41,Operations,Operations Manager,Remote,2016-07-10,9.0,Average,92.6,18,4,123631
+EMP0882,Dr. Ashley Pruitt,Male,42,Sales,Sales Executive,Hybrid,2023-09-27,1.8,Average,92.91,11,14,42843
+EMP0883,Meghan White,Female,27,Finance,Financial Analyst,Onsite,2021-12-26,3.5,Excellent,95.54,15,6,88479
+EMP0884,Lisa Huffman,Female,59,HR,Recruiter,Hybrid,2017-09-30,7.8,Average,75.79,8,18,95382
+EMP0885,Mr. Stephen Alexander,Female,53,IT Support,Network Admin,Hybrid,2016-08-08,8.9,Poor,92.95,4,16,46662
+EMP0886,Ernest Bush,Male,54,Sales,Sales Manager,Hybrid,2024-06-15,1.1,Excellent,68.51,15,1,127844
+EMP0887,Laura Cunningham,Male,60,Finance,Financial Analyst,Remote,2021-04-13,4.2,Excellent,74.78,9,1,98521
+EMP0888,Melissa Montgomery,Female,41,Finance,Accountant,Remote,2022-11-21,2.6,Good,79.44,25,4,48630
+EMP0889,Danielle Reed,Male,41,Operations,Logistics Coordinator,Remote,2022-01-27,3.5,Good,92.77,15,0,46033
+EMP0890,Ronald Mcclain,Male,24,Marketing,SEO Specialist,Remote,2016-06-15,9.1,Good,72.39,14,10,132413
+EMP0891,Timothy Wagner,Male,30,Sales,Sales Manager,Hybrid,2023-07-06,2.0,Average,90.47,21,14,49527
+EMP0892,Sheila Jones,Male,48,Operations,Logistics Coordinator,Remote,2023-11-21,1.6,Good,75.82,17,1,117876
+EMP0893,Gary Ramirez,Male,32,Sales,Sales Manager,Hybrid,2024-02-24,1.4,Excellent,85.2,24,9,103537
+EMP0894,Mason Powell,Male,34,IT Support,Support Specialist,Hybrid,2019-07-11,6.0,Average,90.3,30,18,98387
+EMP0895,Jeremy Berry,Male,29,Finance,Financial Analyst,Hybrid,2017-01-08,8.5,Below Average,67.19,0,8,133121
+EMP0896,Jillian Wilson,Female,27,Finance,Accountant,Hybrid,2023-12-27,1.5,Average,76.07,1,15,142980
+EMP0897,Alicia Powell,Female,33,HR,Recruiter,Remote,2016-02-19,9.4,Excellent,81.12,12,8,41930
+EMP0898,April Davis,Male,40,HR,HR Manager,Onsite,2020-09-15,4.8,Excellent,90.73,4,9,83382
+EMP0899,Kristina Pena,Male,42,IT Support,Support Specialist,Onsite,2023-04-15,2.2,Excellent,62.34,12,3,71948
+EMP0900,Heidi Brown,Female,38,Finance,Financial Analyst,Remote,2019-04-27,6.2,Below Average,95.98,1,6,61407
+EMP0901,Evelyn Saunders,Female,54,Operations,Operations Manager,Hybrid,2023-07-29,2.0,Good,64.6,1,10,90925
+EMP0902,Heidi Chavez,Male,52,Marketing,SEO Specialist,Onsite,2017-03-08,8.4,Good,69.35,28,0,65279
+EMP0903,Courtney Peterson,Male,57,Marketing,Marketing Executive,Hybrid,2020-06-29,5.0,Average,72.18,13,14,40998
+EMP0904,Jacqueline Rodriguez,Male,45,Operations,Operations Manager,Hybrid,2018-04-27,7.2,Poor,91.28,17,13,149471
+EMP0905,Rodney Newton MD,Male,22,Marketing,SEO Specialist,Remote,2019-11-08,5.7,Poor,84.83,20,5,30071
+EMP0906,Chelsea Conrad,Female,60,HR,Recruiter,Remote,2022-03-18,3.3,Below Average,75.21,11,20,57886
+EMP0907,Roger Lee,Male,32,Marketing,SEO Specialist,Hybrid,2021-04-10,4.3,Average,62.8,2,12,121544
+EMP0908,Jason House,Female,49,HR,HR Manager,Onsite,2017-08-15,7.9,Average,98.3,10,10,113252
+EMP0909,Joanna Barrett,Female,39,Engineering,QA Engineer,Onsite,2024-02-07,1.4,Average,72.87,6,14,108579
+EMP0910,Jonathan Moreno,Male,22,Engineering,Software Engineer,Hybrid,2016-05-08,9.2,Good,96.06,21,5,84154
+EMP0911,Jessica Richards,Female,56,Marketing,SEO Specialist,Onsite,2024-03-04,1.4,Average,85.96,2,17,34056
+EMP0912,Susan Holt,Male,44,Operations,Logistics Coordinator,Remote,2018-06-25,7.1,Below Average,74.32,5,0,46353
+EMP0913,Betty Hughes,Male,50,Sales,Sales Manager,Onsite,2020-12-31,4.5,Good,60.79,8,11,55101
+EMP0914,Janice Petty,Male,36,HR,Recruiter,Remote,2019-10-01,5.8,Poor,61.47,15,19,57405
+EMP0915,Victor Waller,Female,29,HR,HR Manager,Remote,2023-03-25,2.3,Average,79.76,17,6,116486
+EMP0916,Brenda Morrison,Male,59,IT Support,Support Specialist,Onsite,2024-03-29,1.3,Average,65.1,29,18,142129
+EMP0917,Michael Valencia,Male,23,Finance,Financial Analyst,Hybrid,2024-12-10,0.6,Average,84.58,21,17,145749
+EMP0918,Christina Weber,Female,25,Sales,Sales Executive,Remote,2020-06-20,5.1,Good,99.8,8,3,119151
+EMP0919,Tammy Anderson,Female,45,Marketing,SEO Specialist,Hybrid,2018-07-20,7.0,Average,95.35,7,1,66429
+EMP0920,Melissa Morris,Female,22,Sales,Sales Manager,Remote,2017-06-28,8.0,Excellent,63.27,18,0,126658
+EMP0921,Kristina Aguilar,Male,37,Finance,Financial Analyst,Onsite,2022-08-18,2.9,Excellent,72.43,20,20,42678
+EMP0922,Stephanie Ferguson,Female,23,HR,Recruiter,Hybrid,2022-09-17,2.8,Average,97.4,26,8,62394
+EMP0923,Kelly Johnson,Male,43,HR,Recruiter,Onsite,2017-12-31,7.5,Below Average,80.79,7,2,131679
+EMP0924,Anthony Adams,Male,50,Marketing,SEO Specialist,Hybrid,2018-04-07,7.3,Excellent,98.98,29,1,79465
+EMP0925,Miss Brianna Brown,Male,30,Engineering,QA Engineer,Onsite,2020-07-18,5.0,Below Average,77.68,9,19,112075
+EMP0926,Joshua Howard,Male,25,Sales,Sales Executive,Hybrid,2023-03-24,2.3,Excellent,94.0,12,3,110911
+EMP0927,Sean Stevenson,Male,60,Operations,Logistics Coordinator,Hybrid,2019-05-05,6.2,Average,78.14,14,13,145335
+EMP0928,Kristina Young,Female,23,Marketing,Marketing Executive,Remote,2020-06-02,5.1,Average,83.51,3,3,31610
+EMP0929,Amber James,Male,58,Marketing,Marketing Executive,Onsite,2022-08-12,2.9,Average,70.25,13,15,124977
+EMP0930,Vanessa Edwards,Male,37,Marketing,SEO Specialist,Onsite,2024-12-01,0.6,Average,62.42,9,18,87127
+EMP0931,Patrick Harris,Female,59,Marketing,SEO Specialist,Hybrid,2023-01-24,2.5,Average,65.9,9,19,74944
+EMP0932,Susan Bush,Male,55,Engineering,DevOps Engineer,Hybrid,2021-10-13,3.7,Average,65.78,7,16,137372
+EMP0933,Kimberly Morrison,Female,44,Operations,Operations Manager,Onsite,2018-10-26,6.7,Poor,85.62,6,2,74767
+EMP0934,Christopher Fleming,Female,60,Finance,Financial Analyst,Hybrid,2018-09-15,6.8,Good,83.14,30,10,110753
+EMP0935,Nancy Wilson,Female,32,Engineering,DevOps Engineer,Onsite,2016-03-20,9.3,Good,91.57,1,15,58757
+EMP0936,Justin Anderson,Male,51,HR,HR Manager,Hybrid,2025-06-17,0.1,Good,79.23,24,10,135810
+EMP0937,Abigail Owens,Male,47,IT Support,Network Admin,Onsite,2018-02-27,7.4,Below Average,60.27,0,2,76908
+EMP0938,Timothy Carlson,Male,40,HR,HR Manager,Remote,2020-08-25,4.9,Excellent,83.43,24,11,35754
+EMP0939,Kenneth Howard DDS,Male,40,HR,HR Manager,Onsite,2020-12-07,4.6,Good,70.48,5,10,141088
+EMP0940,Tina Meyer,Male,34,Marketing,Marketing Executive,Onsite,2024-02-13,1.4,Excellent,70.47,3,0,138979
+EMP0941,Joshua Powell,Female,29,IT Support,Support Specialist,Remote,2021-06-21,4.1,Below Average,72.2,7,11,136101
+EMP0942,Daniel Rivera,Male,55,Engineering,QA Engineer,Hybrid,2021-08-30,3.9,Below Average,95.14,2,3,48931
+EMP0943,Travis Montgomery,Male,56,Finance,Accountant,Remote,2023-08-09,1.9,Average,72.72,13,20,62053
+EMP0944,Samantha Zavala MD,Female,31,HR,HR Manager,Remote,2021-05-31,4.1,Good,85.18,8,4,141608
+EMP0945,Tanner Austin,Male,27,Marketing,SEO Specialist,Remote,2019-09-04,5.9,Average,84.6,5,16,80871
+EMP0946,Melanie Flores,Female,55,Operations,Logistics Coordinator,Remote,2017-06-15,8.1,Excellent,88.5,16,15,123801
+EMP0947,Joshua Campbell,Female,59,Sales,Sales Manager,Remote,2024-04-26,1.2,Average,91.62,20,1,57158
+EMP0948,Jaime Lang,Female,37,Finance,Accountant,Remote,2023-02-08,2.4,Good,77.0,12,18,50605
+EMP0949,Mr. Matthew Flores,Female,57,Operations,Logistics Coordinator,Onsite,2016-12-04,8.6,Excellent,63.36,14,16,76081
+EMP0950,Carol Huber,Female,54,Finance,Accountant,Hybrid,2024-09-04,0.9,Good,78.05,13,13,78170
+EMP0951,Lori Clark,Female,39,Operations,Logistics Coordinator,Remote,2019-02-25,6.4,Excellent,77.67,8,20,39946
+EMP0952,Jessica Garcia,Female,54,Engineering,Software Engineer,Hybrid,2024-09-03,0.9,Average,63.13,8,7,42898
+EMP0953,Sherry Figueroa,Female,24,HR,HR Manager,Hybrid,2022-12-06,2.6,Good,67.87,10,8,69677
+EMP0954,Teresa Burgess,Male,60,IT Support,Network Admin,Onsite,2018-02-21,7.4,Poor,90.1,23,17,149587
+EMP0955,Mitchell Johnson,Female,40,Engineering,Software Engineer,Remote,2016-10-09,8.8,Average,76.15,12,18,129327
+EMP0956,Robert Grant,Female,54,IT Support,Support Specialist,Onsite,2025-04-22,0.2,Below Average,69.1,23,6,92185
+EMP0957,Susan Russell,Female,43,Finance,Financial Analyst,Onsite,2023-03-15,2.3,Good,67.51,24,13,57470
+EMP0958,Jessica Smith,Male,45,Sales,Sales Manager,Onsite,2017-07-16,8.0,Average,65.13,30,0,95509
+EMP0959,Margaret Montgomery,Female,36,Operations,Logistics Coordinator,Remote,2025-06-27,0.0,Good,90.11,24,17,69274
+EMP0960,Ryan Howard,Male,58,Engineering,QA Engineer,Onsite,2024-01-30,1.4,Below Average,66.15,30,10,104473
+EMP0961,Richard Turner,Female,35,IT Support,Network Admin,Remote,2016-12-30,8.5,Excellent,75.46,15,3,73101
+EMP0962,Timothy James,Female,27,Marketing,SEO Specialist,Onsite,2016-01-19,9.5,Excellent,82.12,1,19,94043
+EMP0963,Joseph Taylor,Male,26,HR,HR Manager,Remote,2022-03-06,3.4,Good,69.32,21,16,39172
+EMP0964,Sarah Phillips,Female,55,Sales,Sales Executive,Onsite,2017-12-23,7.6,Excellent,94.39,13,12,50582
+EMP0965,Stephen Sanford,Female,52,HR,HR Manager,Hybrid,2021-11-15,3.7,Excellent,98.2,27,6,47030
+EMP0966,Alexandra Baxter,Female,49,Operations,Operations Manager,Hybrid,2017-12-06,7.6,Average,66.35,18,9,107003
+EMP0967,Aaron Carlson,Female,34,Finance,Financial Analyst,Onsite,2024-08-30,0.9,Poor,77.83,26,12,109278
+EMP0968,Angela Clark,Female,58,Operations,Operations Manager,Remote,2021-05-17,4.2,Good,83.05,23,2,67737
+EMP0969,Taylor York,Female,41,IT Support,Network Admin,Remote,2017-12-13,7.6,Average,92.4,5,13,62654
+EMP0970,Daniel Davenport,Female,46,Finance,Financial Analyst,Hybrid,2018-10-31,6.7,Excellent,82.74,12,1,61417
+EMP0971,Michael Bradley,Female,56,Operations,Operations Manager,Remote,2016-06-13,9.1,Average,62.67,23,6,149109
+EMP0972,Tara Gamble,Male,45,Sales,Sales Manager,Onsite,2023-05-17,2.2,Average,80.18,24,10,83752
+EMP0973,Angel Powers,Female,35,Sales,Sales Executive,Hybrid,2019-10-16,5.7,Excellent,61.07,20,14,79958
+EMP0974,Nicholas Freeman,Female,34,Engineering,QA Engineer,Remote,2021-02-25,4.4,Excellent,70.02,22,4,72875
+EMP0975,Michael Young,Female,51,IT Support,Network Admin,Onsite,2020-05-17,5.2,Excellent,86.28,22,14,48383
+EMP0976,Stephanie Stewart,Male,32,Sales,Sales Manager,Onsite,2023-03-12,2.3,Average,67.09,3,17,127182
+EMP0977,Matthew Steele,Male,22,Sales,Sales Executive,Hybrid,2018-02-12,7.4,Good,77.63,5,6,123639
+EMP0978,Holly Stewart,Female,25,HR,HR Manager,Hybrid,2022-10-24,2.7,Below Average,85.64,22,3,81199
+EMP0979,Erik Floyd,Female,25,IT Support,Network Admin,Hybrid,2022-12-11,2.6,Excellent,90.9,24,6,62728
+EMP0980,Ian Frazier,Male,27,Engineering,Software Engineer,Onsite,2021-03-02,4.4,Good,99.57,10,6,119123
+EMP0981,Julie Howard,Male,28,IT Support,Support Specialist,Hybrid,2020-09-21,4.8,Excellent,66.68,13,16,44114
+EMP0982,Mr. Matthew Miller,Female,57,Operations,Logistics Coordinator,Hybrid,2020-04-19,5.2,Excellent,68.28,17,12,86083
+EMP0983,Brenda Ryan,Male,28,HR,HR Manager,Remote,2020-01-02,5.5,Good,60.6,20,10,31570
+EMP0984,Lori Luna,Female,36,Sales,Sales Executive,Onsite,2015-11-04,9.7,Average,71.14,19,11,35759
+EMP0985,Lynn Hess,Female,41,HR,HR Manager,Hybrid,2025-05-17,0.2,Good,99.62,22,17,133712
+EMP0986,Kevin Escobar,Female,28,Operations,Operations Manager,Hybrid,2024-11-28,0.6,Good,85.23,12,4,73522
+EMP0987,Steven Fernandez,Female,26,Finance,Financial Analyst,Remote,2018-01-20,7.5,Excellent,96.48,14,12,96981
+EMP0988,Daniel Barton,Male,36,IT Support,Support Specialist,Onsite,2020-06-23,5.1,Average,95.87,9,7,126719
+EMP0989,Jonathan Davis,Male,25,Sales,Sales Executive,Onsite,2021-09-18,3.8,Good,71.86,4,12,56789
+EMP0990,Mary Charles,Male,60,IT Support,Support Specialist,Remote,2018-05-07,7.2,Average,73.15,8,10,114358
+EMP0991,Brenda Moore,Female,40,Operations,Operations Manager,Onsite,2025-02-28,0.4,Good,89.31,10,7,56976
+EMP0992,Mary Faulkner,Male,36,Marketing,Marketing Executive,Hybrid,2023-10-02,1.8,Below Average,80.86,5,14,112546
+EMP0993,Amanda Juarez,Female,26,HR,HR Manager,Onsite,2019-06-21,6.1,Excellent,99.68,30,6,46457
+EMP0994,Jacob Williams,Male,37,HR,HR Manager,Hybrid,2019-01-16,6.5,Excellent,89.0,9,5,124591
+EMP0995,Rebecca Hughes,Female,33,Finance,Accountant,Hybrid,2023-04-06,2.3,Good,71.41,14,20,56398
+EMP0996,Amanda Wong,Male,45,Engineering,DevOps Engineer,Remote,2017-04-13,8.3,Good,78.83,13,16,109874
+EMP0997,Kelly Gallegos,Male,52,IT Support,Network Admin,Onsite,2020-01-03,5.5,Average,77.1,2,9,108011
+EMP0998,Laura Bennett,Male,38,Marketing,Marketing Executive,Remote,2021-12-19,3.6,Good,78.14,12,17,109432
+EMP0999,Matthew Houston,Female,30,Sales,Sales Executive,Hybrid,2024-04-25,1.2,Good,66.19,6,0,31682
+EMP1000,William Walker,Female,47,Operations,Logistics Coordinator,Remote,2022-06-06,3.1,Below Average,98.82,11,12,94166
