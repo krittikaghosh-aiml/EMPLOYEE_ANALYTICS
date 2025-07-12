@@ -53,8 +53,8 @@ if st.button("Ask") and user_query.strip():
             )
             answer = qa.run(custom_query)
 
-            st.markdown("### 🧠 Answer:")
-            st.write(answer)
+            #st.markdown("### 🧠 Answer:")
+            #st.write(answer)
 
             # --- Ask GPT to generate visual code ---
             st.markdown("### 📊 Auto Visualization (if applicable):")
