@@ -141,7 +141,7 @@ st.markdown("<h3 style='color:#6a0dad;'>📈 Employee Analytics Dashboard</h3>",
 st.markdown(f"<h5 style='color:#333;'>Welcome <b>{st.session_state.username}</b>! Generate employee insights below.</h5>", unsafe_allow_html=True)
 
 # --- Load your uploaded employee CSV ---
-csv_path = "employee.csv"  # You uploaded this earlier
+csv_path = "employee_data.csv"  # You uploaded this earlier
 df = pd.read_csv(csv_path)
 if st.checkbox("👁️ Show Employee Dataset"):
     st.dataframe(df, use_container_width=True)
