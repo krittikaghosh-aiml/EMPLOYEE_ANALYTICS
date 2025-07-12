@@ -165,7 +165,7 @@ selected_sample = st.selectbox("💡 Choose a sample question (or type your own 
 user_query = st.text_input("💬 Or type your own question here:", value=selected_sample)
 
 # --- On click of Ask button ---
-if st.button("Ask"):
+if st.button("🔍 Ask"):
     if not user_query.strip():
         st.markdown("### 🙋‍♀️ Please ask a question.")
     else:
