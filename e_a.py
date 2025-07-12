@@ -16,15 +16,133 @@ from langchain.chains import RetrievalQA
 # --- Setup your OpenAI key ---
 openai.api_key = os.getenv("OPENAI_API_KEY")  # Or use st.secrets["openai_api_key"]
 
+# --- User Credentials ---
+USERS = {
+    "admin": "admin123",
+    "kg": "kg123",
+    "sg": "sg123",
+    "analyst": "insights"
+}
+
 # --- Streamlit UI ---
-st.set_page_config(page_title="AskEmployeeAI - Smart Chat & Auto Visuals", layout="wide")
-st.title("🧠 AskEmployeeAI")
-st.markdown("Ask any question about your employee dataset and auto-generate reports!")
+st.set_page_config(page_title="🐝Hive Radar📡", layout="centered", page_icon="📊")
+
+# --- UI Styling ---
+st.markdown("""
+    <style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
+    body {
+        background-color: #e6ccff;
+        color: #2c3e50;
+    }
+    div.stButton > button {
+        background-color: #6a0dad;
+        color: white;
+        padding: 10px 30px;
+        border-radius: 8px;
+        font-size: 18px;
+        font-weight: bold;
+        transition: all 0.3s ease-in-out;
+        animation: pulse 2s infinite;
+        white-space: nowrap;
+    }
+    div.stButton > button:hover {
+        background-color: #5c0099;
+        transform: scale(1.05);
+    }
+    @keyframes pulse {
+        0% { box-shadow: 0 0 0 0 rgba(106, 13, 173, 0.5); }
+        70% { box-shadow: 0 0 0 10px rgba(106, 13, 173, 0); }
+        100% { box-shadow: 0 0 0 0 rgba(106, 13, 173, 0); }
+    }
+    
+    </style>
+""", unsafe_allow_html=True)
+
+# ========= FOOTER (ALWAYS VISIBLE) ==========
+st.markdown("""
+    <style>
+    .footer-left-animated {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        padding: 10px 20px;
+        font-size: 16px;
+        font-weight: bold;
+        color: white;
+        background-color: #6a0dad;
+        border-top-right-radius: 12px;
+        animation: glow 3s ease-in-out infinite;
+        z-index: 9999;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    @keyframes glow {
+        0% { box-shadow: 0 0 5px #6a0dad; }
+        50% { box-shadow: 0 0 20px #6a0dad; }
+        100% { box-shadow: 0 0 5px #6a0dad; }
+    }
+
+    .emoji {
+        animation: bounce 1.5s infinite;
+        font-size: 18px;
+    }
+
+    @keyframes bounce {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-5px); }
+    }
+    </style>
+
+    <div class="footer-left-animated">
+        <span class="emoji">👩‍💻</span>
+        Created by <b>Krittika Ghosh</b>
+    </div>
+""", unsafe_allow_html=True)
+
+# --- Session State ---
+if "logged_in" not in st.session_state:
+    st.session_state.logged_in = False
+
+# --- Login Page ---
+if not st.session_state.logged_in:
+    st.markdown("<h2 style='text-align: center; color:#6a0dad;'>🔐 Login to 🐝  Hive Radar  📡</h2>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align: center; color: #333; font-size: 16px;'>Please enter your credentials below.</p>", unsafe_allow_html=True)
+    username = st.text_input("Username")
+    password = st.text_input("Password", type="password")
+
+    if st.button("🔐 Login"):
+        if username in USERS and USERS[username] == password:
+            st.session_state.logged_in = True
+            st.session_state.username = username
+            st.success("✅ Login successful! Reloading...")
+            st.rerun()
+        else:
+            st.error("❌ Invalid username or password.")
+
+    st.stop()
+
+# --- Logout Button ---
+logout_center = st.columns([4, 1, 4])
+with logout_center[1]:
+    if st.button("🚪 Logout", key="logout_top"):
+        st.session_state.logged_in = False
+        if "username" in st.session_state:
+            del st.session_state["username"]
+        st.rerun()
+
+st.markdown("<h1 style='text-align: center; color: #6a0dad;'>🐝  Hive Radar  📡</h1>", unsafe_allow_html=True)
+st.markdown("<h4 style='text-align: center; color: #333;'>Smart Radar for Smarter Teams 📊</h4>", unsafe_allow_html=True)
+st.markdown("<h3 style='color:#6a0dad;'>📈 Employee Analytics Dashboard</h3>", unsafe_allow_html=True)
+st.markdown(f"<h5 style='color:#333;'>Welcome <b>{st.session_state.username}</b>! Generate employee insights below.</h5>", unsafe_allow_html=True)
 
 # --- Load your uploaded employee CSV ---
 csv_path = "employee.csv"  # You uploaded this earlier
 df = pd.read_csv(csv_path)
-st.success("✅ Loaded your uploaded dataset successfully!")
 if st.checkbox("👁️ Show Employee Dataset"):
     st.dataframe(df, use_container_width=True)
 
