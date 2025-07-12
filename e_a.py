@@ -32,69 +32,86 @@ st.dataframe(df, use_container_width=True)
 user_query = st.text_input("💬 Ask your employee-related question:")
 
 # --- On click of Ask button ---
-if st.button("Ask") and user_query.strip():
-    # --- Basic check for meaningful input ---
-    if len(user_query.strip().split()) <= 2 and not any(word in user_query.lower() for word in ["show", "list", "top", "who", "what", "how", "which", "thank you","average", "employees", "salary", "performance"]):
-        st.warning("HOW CAN I HELP YOU TODAY!")
+if st.button("Ask"):
+    if not user_query.strip():
+        st.markdown("### 🙋‍♀️ Please ask a question.")
     else:
-        with st.spinner("🔎 Thinking..."):
-            # --- Adjust query for top 5 fix ---
-            custom_query = user_query
-            if "top 5" in user_query.lower():
-                custom_query += ". Please list exactly 5 employees based on the dataset."
+        cleaned_query = user_query.strip().lower()
+        casual_inputs = {
+            "hi": "Hello! How can I help you today?",
+            "hello": "Hi there! 👋 What would you like to know about your employees?",
+            "thank you": "You're welcome! 😊",
+            "thanks": "Glad to help! 🙌",
+            "hey": "Hey there! Ask me anything about your team.",
+            "good morning": "Good morning! Ready to analyze your data?",
+            "how are you": "I'm just a chatbot, but I'm ready to help!"
+        }
 
-            # --- LangChain Q&A ---
-            loader = CSVLoader(file_path=csv_path)
-            data = loader.load()
-            vectorstore = FAISS.from_documents(data, OpenAIEmbeddings())
-            qa = RetrievalQA.from_chain_type(
-                llm=ChatOpenAI(model="gpt-3.5-turbo"),
-                retriever=vectorstore.as_retriever()
-            )
-            answer = qa.run(custom_query)
+        # If user input is casual small talk
+        if cleaned_query in casual_inputs:
+            st.markdown(f"### 🤖 {casual_inputs[cleaned_query]}")
+        
+        # Otherwise, run the full visualization pipeline
+        else:
+            with st.spinner("🔎 Thinking..."):
+                custom_query = user_query
+                if "top 5" in user_query.lower():
+                    custom_query += ". Please list exactly 5 employees based on the dataset."
 
-            #st.markdown("### 🧠 Answer:")
-            #st.write(answer)
+                # --- LangChain Q&A ---
+                loader = CSVLoader(file_path=csv_path)
+                data = loader.load()
+                vectorstore = FAISS.from_documents(data, OpenAIEmbeddings())
+                qa = RetrievalQA.from_chain_type(
+                    llm=ChatOpenAI(model="gpt-3.5-turbo"),
+                    retriever=vectorstore.as_retriever()
+                )
+                answer = qa.run(custom_query)
 
-            # --- Ask GPT to generate visual code ---
-            st.markdown("### 📊 Auto Visualization (if applicable):")
-            prompt = f"""
-            You are a Python data analyst. The user asked: '{user_query}'.
+                # Optional: Hide the answer if not needed
+                # st.markdown("### 🧠 Answer:")
+                # st.write(answer)
 
-            Based on this DataFrame with columns: {list(df.columns)},
-            generate only raw Python code using pandas and plotly to create a chart or a filtered table.
+                # --- Ask GPT to generate visual code ---
+                st.markdown("### 📊 Auto Visualization (if applicable):")
+                prompt = f"""
+                You are a Python data analyst. The user asked: '{user_query}'.
 
-            Rules:
-            - Use the dataframe named 'df'
-            - If chart, assign it to variable 'fig'
-            - If table, assign it to variable 'result'
-            - Do NOT use triple backticks, markdown, or explanations. Only return valid code.
-            """
+                Based on this DataFrame with columns: {list(df.columns)},
+                generate only raw Python code using pandas and plotly to create a chart or a filtered table.
 
-            chat_completion = openai.chat.completions.create(
-                model="gpt-3.5-turbo",
-                messages=[
-                    {"role": "system", "content": "You are a Python data analyst."},
-                    {"role": "user", "content": prompt}
-                ],
-                temperature=0
-            )
+                Rules:
+                - Use the dataframe named 'df'
+                - If chart, assign it to variable 'fig'
+                - If table, assign it to variable 'result'
+                - Do NOT use triple backticks, markdown, or explanations. Only return valid code.
+                """
 
-            raw_response = chat_completion.choices[0].message.content.strip()
-            code_blocks = re.findall(r"```(?:python)?\n(.*?)```", raw_response, re.DOTALL)
-            code = code_blocks[0].strip() if code_blocks else raw_response
+                chat_completion = openai.chat.completions.create(
+                    model="gpt-3.5-turbo",
+                    messages=[
+                        {"role": "system", "content": "You are a Python data analyst."},
+                        {"role": "user", "content": prompt}
+                    ],
+                    temperature=0
+                )
 
-            try:
-                local_vars = {"df": df}
-                exec(code, {}, local_vars)
+                raw_response = chat_completion.choices[0].message.content.strip()
+                code_blocks = re.findall(r"```(?:python)?\n(.*?)```", raw_response, re.DOTALL)
+                code = code_blocks[0].strip() if code_blocks else raw_response
 
-                if "fig" in local_vars:
-                    st.plotly_chart(local_vars["fig"], use_container_width=True)
-                elif "result" in local_vars:
-                    st.dataframe(local_vars["result"])
-                else:
-                    st.warning("❗No chart or table generated from this query.")
-            except Exception as e:
-                st.error(f"⚠️ Error running visualization code: {e}")
+                try:
+                    local_vars = {"df": df}
+                    exec(code, {}, local_vars)
+
+                    if "fig" in local_vars:
+                        st.plotly_chart(local_vars["fig"], use_container_width=True)
+                    elif "result" in local_vars:
+                        st.dataframe(local_vars["result"])
+                    else:
+                        st.warning("❗No chart or table generated from this query.")
+                except Exception as e:
+                    st.error(f"⚠️ Error running visualization code: {e}")
+
 
 
