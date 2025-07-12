@@ -20,7 +20,7 @@ st.title("🧠 AskEmployeeAI")
 st.markdown("Ask any question about your employee dataset and auto-generate reports!")
 
 # --- Load your uploaded employee CSV ---
-csv_path = "/mnt/data/employee.csv"  # You uploaded this earlier
+csv_path = "employee.csv"  # You uploaded this earlier
 df = pd.read_csv(csv_path)
 st.success("✅ Loaded your uploaded dataset successfully!")
 st.dataframe(df.head())
