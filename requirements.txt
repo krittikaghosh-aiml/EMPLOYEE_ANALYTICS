@@ -3,4 +3,6 @@ pandas
 openai
 plotly
 langchain
+langchain-community
+langchain-openai
 faiss-cpu
