@@ -25,7 +25,7 @@ USERS = {
 }
 
 # --- Streamlit UI ---
-st.set_page_config(page_title="🐝Hive Radar📡", layout="centered", page_icon="📊")
+st.set_page_config(page_title="🐝HIVE RADAR📡", layout="centered", page_icon="📊")
 
 # --- UI Styling ---
 st.markdown("""
@@ -110,7 +110,7 @@ if "logged_in" not in st.session_state:
 
 # --- Login Page ---
 if not st.session_state.logged_in:
-    st.markdown("<h2 style='text-align: center; color:#6a0dad;'>🔐 Login to 🐝  Hive Radar  📡</h2>", unsafe_allow_html=True)
+    st.markdown("<h2 style='text-align: center; color:#6a0dad;'>🔐 Login to 🐝  HIVE RADAR  📡</h2>", unsafe_allow_html=True)
     st.markdown("<p style='text-align: center; color: #333; font-size: 16px;'>Please enter your credentials below.</p>", unsafe_allow_html=True)
     username = st.text_input("Username")
     password = st.text_input("Password", type="password")
@@ -135,7 +135,7 @@ with logout_center[1]:
             del st.session_state["username"]
         st.rerun()
 
-st.markdown("<h1 style='text-align: center; color: #6a0dad;'>🐝  Hive Radar  📡</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #6a0dad;'>🐝  HIVE RADAR  📡</h1>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: center; color: #333;'>Smart Radar for Smarter Teams 📊</h4>", unsafe_allow_html=True)
 st.markdown("<h3 style='color:#6a0dad;'>📈 Employee Analytics Dashboard</h3>", unsafe_allow_html=True)
 st.markdown(f"<h5 style='color:#333;'>Welcome <b>{st.session_state.username}</b>! Generate employee insights below.</h5>", unsafe_allow_html=True)
