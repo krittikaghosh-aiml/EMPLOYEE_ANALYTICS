@@ -1,0 +1,11 @@
+EmployeeID,Name,Gender,Age,Department,JobRole,WorkMode,JoinDate,Experience (Years),Performance,Attendance (%),LeavesTaken,ProjectsCompleted,Salary
+101,Alice Smith,Female,29,HR,HR Manager,Hybrid,2019-06-12,5,88,95,6,12,50000
+102,Bob Jones,Male,34,IT,DevOps Eng.,On-site,2018-01-24,7,92,89,4,15,60000
+103,Carol Miller,Female,31,Sales,Sales Exec.,Remote,2020-03-10,4,85,98,2,9,55000
+104,David Brown,Male,36,IT,Sr. Developer,On-site,2017-11-05,9,96,92,3,18,62000
+105,Eva Green,Female,28,HR,Recruiter,Hybrid,2021-02-18,3,90,96,2,8,51000
+106,Frank White,Male,33,Sales,Sales Lead,Remote,2020-07-15,6,87,90,5,11,54000
+107,Grace Adams,Female,30,Marketing,Marketing Exec.,On-site,2019-11-20,5,93,94,4,13,58000
+108,Hank Lee,Male,35,Finance,Finance Analyst,Hybrid,2018-09-30,7,91,88,6,14,57000
+109,Ivy Chan,Female,27,IT,Support Eng.,Remote,2022-05-14,2,86,97,3,7,59000
+110,Jack Black,Male,32,Marketing,Brand Manager,On-site,2021-12-01,3,89,91,5,10,53000
