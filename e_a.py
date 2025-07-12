@@ -206,7 +206,7 @@ if st.button("🔍 Ask"):
                 # st.write(answer)
 
                 # --- Ask GPT to generate visual code ---
-                st.markdown("### 📊 Auto Visualization (if applicable):")
+                st.markdown("### 📊📡 Radar Scan Result: (if applicable):")
                 prompt = f"""
                 You are a Python data analyst. The user asked: '{user_query}'.
 
