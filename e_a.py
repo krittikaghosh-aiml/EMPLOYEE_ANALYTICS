@@ -29,7 +29,19 @@ st.dataframe(df, use_container_width=True)
 # st.info("💡 Try asking: 'Top 5 performers', 'Pie chart of department', 'Average salary by gender', 'Employees with low attendance'")
 
 # --- Text input box ---
-user_query = st.text_input("💬 Ask your employee-related question:")
+# Sample questions
+sample_questions = [
+    "Top 5 performers",
+    "Average salary by department",
+    "Pie chart of employees by gender",
+    "Employees with attendance below 75%",
+    "Department-wise count of employees",
+    "Top 5 highest paid employees",
+    "Bar chart of experience vs salary"
+]
+
+selected_sample = st.selectbox("💡 Choose a sample question (or type your own below):", [""] + sample_questions)
+user_query = st.text_input("💬 Or type your own question here:", value=selected_sample)
 
 # --- On click of Ask button ---
 if st.button("Ask"):
