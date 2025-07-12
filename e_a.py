@@ -5,6 +5,8 @@ import tempfile
 import openai
 import os
 import re
+import io
+import plotly.io as pio
 
 from langchain_community.document_loaders import CSVLoader
 from langchain_community.vectorstores import FAISS
@@ -118,7 +120,20 @@ if st.button("Ask"):
                     exec(code, {}, local_vars)
 
                     if "fig" in local_vars:
-                        st.plotly_chart(local_vars["fig"], use_container_width=True)
+                        fig = local_vars["fig"]
+                        st.plotly_chart(fig, use_container_width=True)
+
+    # Convert to PDF in memory
+                        pdf_buffer = io.BytesIO()
+                        pio.write_image(fig, pdf_buffer, format='pdf')
+                        pdf_buffer.seek(0)
+
+                        st.download_button(
+                            label="📥 Download Chart as PDF",
+                            data=pdf_buffer,
+                            file_name="employee_chart.pdf",
+                            mime="application/pdf"
+                        )
                     elif "result" in local_vars:
                         st.dataframe(local_vars["result"])
                     else:
