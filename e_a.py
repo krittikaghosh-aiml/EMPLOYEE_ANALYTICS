@@ -23,7 +23,8 @@ st.markdown("Ask any question about your employee dataset and auto-generate repo
 csv_path = "employee.csv"  # You uploaded this earlier
 df = pd.read_csv(csv_path)
 st.success("✅ Loaded your uploaded dataset successfully!")
-st.dataframe(df, use_container_width=True)
+if st.checkbox("👁️ Show Employee Dataset"):
+    st.dataframe(df, use_container_width=True)
 
 # --- Info for the user ---
 # st.info("💡 Try asking: 'Top 5 performers', 'Pie chart of department', 'Average salary by gender', 'Employees with low attendance'")
