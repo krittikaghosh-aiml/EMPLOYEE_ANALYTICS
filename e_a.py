@@ -34,8 +34,8 @@ user_query = st.text_input("💬 Ask your employee-related question:")
 # --- On click of Ask button ---
 if st.button("Ask") and user_query.strip():
     # --- Basic check for meaningful input ---
-    if len(user_query.strip().split()) <= 2 and not any(word in user_query.lower() for word in ["show", "list", "top", "who", "what", "how", "which", "average", "employees", "salary", "performance"]):
-        st.warning("⚠️ Please ask a meaningful question like 'Top 5 performers' or 'Average salary by department'.")
+    if len(user_query.strip().split()) <= 2 and not any(word in user_query.lower() for word in ["show", "list", "top", "who", "what", "how", "which", "thank you","average", "employees", "salary", "performance"]):
+        st.warning("HOW CAN I HELP YOU TODAY!")
     else:
         with st.spinner("🔎 Thinking..."):
             # --- Adjust query for top 5 fix ---
