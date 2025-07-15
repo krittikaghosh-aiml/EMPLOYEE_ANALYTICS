@@ -181,7 +181,7 @@ if st.button("🔍 Ask"):
                 code = code_blocks[0].strip() if code_blocks else raw_code
 
                 try:
-                    local_vars = {"df": df}
+                    local_vars = {"df": df, "px": px}
                     exec(code, {}, local_vars)
 
                     if "fig" in local_vars:
