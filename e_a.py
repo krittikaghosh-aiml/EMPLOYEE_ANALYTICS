@@ -97,14 +97,14 @@ performance_map = {
 if "PERFORMANCE" in df.columns and df["PERFORMANCE"].dtype == "object":
     df["Performance_Score"] = df["PERFORMANCE"].map(performance_map)
 
-# Show data if user wants
-if st.checkbox("👁️ Show Employee Dataset"):
-    st.dataframe(df, use_container_width=True)
-
 # --- Heading ---
 st.markdown("<h1 style='text-align: center; color: #6a0dad;'>🐝 HIVE RADAR 📡</h1>", unsafe_allow_html=True)
 st.markdown(f"<h5 style='color:#333;'>Welcome <b>{st.session_state.username}</b>! Generate employee insights below.</h5>", unsafe_allow_html=True)
 
+# Show data if user wants
+if st.checkbox("👁️ Show Employee Dataset"):
+    st.dataframe(df, use_container_width=True)
+    
 # --- Sample Questions ---
 sample_questions = [
     "Top 5 performers", "Average salary by department", "Pie chart of employees by gender",
