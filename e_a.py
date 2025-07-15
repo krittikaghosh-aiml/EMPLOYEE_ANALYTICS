@@ -154,8 +154,12 @@ if st.button("🔍 Ask"):
 
                 You are working with a pandas DataFrame named 'df' with these columns: {list(df.columns)}.
 
-                If the user asks for something based on non-numeric values (like 'PERFORMANCE'), use the mapped numeric version (e.g., 'Performance_Score') if available.
-
+                ⚠️ VERY IMPORTANT:
+                - 'PERFORMANCE' is a categorical column (values like "Excellent", "Poor", etc.).
+                - Use the 'Performance_Score' column (numeric: 1–5) instead when filtering or ranking by performance.
+                - For top performers, use: df.nlargest(5, 'Performance_Score')
+                - For bottom performers, use: df.nsmallest(5, 'Performance_Score')
+                
                 Generate raw Python code that either:
                 1. Assigns a Plotly chart to a variable named 'fig'
                 2. Assigns a filtered pandas table to 'result'
