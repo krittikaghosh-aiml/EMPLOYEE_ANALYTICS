@@ -50,19 +50,44 @@ st.markdown("""
 st.markdown("""
     <style>
     .footer-left-animated {
-        position: fixed; bottom: 0; left: 0; padding: 10px 20px; font-size: 16px;
-        color: white; background-color: #6a0dad; border-top-right-radius: 12px;
-        animation: glow 3s ease-in-out infinite; z-index: 9999;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        padding: 10px 20px;
+        font-size: 16px;
+        font-weight: bold;
+        color: white;
+        background-color: #6a0dad;
+        border-top-right-radius: 12px;
+        animation: glow 7s ease-in-out infinite;
+        z-index: 9999;
+        display: flex;
+        align-items: center;
+        gap: 8px;
     }
+
     @keyframes glow {
         0% { box-shadow: 0 0 5px #6a0dad; }
         50% { box-shadow: 0 0 20px #6a0dad; }
         100% { box-shadow: 0 0 5px #6a0dad; }
     }
-    </style>
-    <div class="footer-left-animated">👩‍💻 Created by <b>Krittika Ghosh</b></div>
-""", unsafe_allow_html=True)
 
+    .emoji {
+        animation: bounce 1.5s infinite;
+        font-size: 18px;
+    }
+
+    @keyframes bounce {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-5px); }
+    }
+    </style>
+
+    <div class="footer-left-animated">
+        <span class="emoji">👩‍💻</span>
+        Created by <b>Krittika Ghosh</b>
+    </div>
+""", unsafe_allow_html=True)
 # --- Session State ---
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
